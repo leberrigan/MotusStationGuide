@@ -1,4 +1,3 @@
-
 # Antennas, Cables, and Dongles
 
 ## How to Select an Antenna
@@ -9,7 +8,7 @@ optimized for reception on a particular radio frequency. Since there are
 multiple tag frequencies, each tag type requires its own antenna;
 currnetly an antenna optimized to detect Lotek tags on 166.380 Mhz will
 not detect CTT tags on 434 Mhz, and vice versa. Wherever possible we
-recommend installing "dual-mode" stations outfitted with antennas and a
+recommend installing “dual-mode” stations outfitted with antennas and a
 receiver that can detect tags tags. A dual-frequency antenna is under
 development, but for the time being, dual-mode stations (those that can
 listen for more than one frequency, must have two different types of
@@ -21,17 +20,16 @@ conductive materials which will vary in magnitude based on the physical
 dimensions and orientation of the material. The induced voltage
 oscillates at the same frequency as the electromagnetic radiation and
 the amount of voltage induced is proportional to the strength of the
-radiation. Antennas used in this network are built ("tuned") with high
+radiation. Antennas used in this network are built (“tuned”) with high
 precision such that the induced voltage is most intense when exposed to
 a narrow range of frequencies. Antennas can also be shaped to select for
 radiation from specific directions and
-orientations.![](media\image5.gif){width="6.5in"
-height="3.1944444444444446in"}
+orientations.<img src="media\image5.gif" style="width:6.5in;height:3.19444in" />
 
 Each antenna has a theoretical radiation pattern which represents its
 range in 3D space. We use the radiation pattern to predict the distance
 and direction we can receive signals from radio transmitters.
-Omnidirectional ('omni') antennas, as the name suggests, have a uniform
+Omnidirectional (‘omni’) antennas, as the name suggests, have a uniform
 radiation pattern that is emitted perpendicular to its axis. The thin
 wire attached to Lotek and CTT tags is a type of omni antenna. When used
 on a receiver, omni antennas provide presence/absence information,
@@ -39,27 +37,25 @@ typically within a short range. This makes them ideal for fine scale
 studies and are indeed used with CTT SensorNodes to create a
 high-resolution grid.
 
-![](media\image6.png){width="2.9664052930883638in"
-height="2.4739588801399823in"}![](media\image7.gif){width="3.3281255468066493in"
-height="2.587444225721785in"}
+<img src="media\image6.png" style="width:2.96641in;height:2.47396in" /><img src="media\image7.gif" style="width:3.32813in;height:2.58744in" />
 
 A torus, representing the radiation pattern of an omnidirectional
-antenna (left; [CC BY-SA
-3.0](https://creativecommons.org/licenses/by-sa/3.0), source:
-[Wikipedia](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)).
+antenna (left; [<u>CC BY-SA
+3.0</u>](https://creativecommons.org/licenses/by-sa/3.0), source:
+[<u>Wikipedia</u>](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)).
 Cross-sectional view of a half-wave omni-directional antenna (right;
 public domain, source: Wikipedia).
 
-Yagi-Uda ('Yagi') antennas are a type of directional antenna that are
+Yagi-Uda (‘Yagi’) antennas are a type of directional antenna that are
 the most commonly used antenna in the Motus network. Their radiation
 pattern is directed into a beam which varies in length and width based
-on the number of 'directing elements' with a greater number of elements
+on the number of ‘directing elements’ with a greater number of elements
 resulting in a longer, narrower beam. A 9-element Yagi antenna, for
 instance, can theoretically provide tag detections from 15 km away at
 166.380 MHz, but this will vary widely in reality, based on the
 landscape and atmospheric conditions. Yagi antennas are favorable for
-most applications since they can be used to create receiver 'fences' or
-'grids' with fewer stations than an omni antennas could. In addition,
+most applications since they can be used to create receiver ‘fences’ or
+‘grids’ with fewer stations than an omni antennas could. In addition,
 multiple Yagi antennas on a single station can be used to infer flight
 direction based on the timing of detection across each antenna.
 
@@ -78,13 +74,13 @@ site).
 Large Yagi antennas are useful for making receiver fences and grids
 since they can be spaced as far as 30 km apart with antennas pointing
 towards each other to capture animals passing in between. Mid-sized Yagi
-antennas provide a compromise between distance and "field of view", or
+antennas provide a compromise between distance and “field of view”, or
 width of the detection beam. Small Yagi antennas are typically used for
 manual tracking, or for monitoring animals within a small study area.
-[CTT
-Nodes](https://celltracktech.com/products/tag-system/ctt-node/)
-have small omni antennas with a line-of-sight (LOS) range of around 1.4
-km which if distributed in a grid can provide highly accurate location
+[<u>CTT
+Nodes</u>](https://celltracktech.com/products/tag-system/ctt-node/) have
+small omni antennas with a line-of-sight (LOS) range of around 1.4 km
+which if distributed in a grid can provide highly accurate location
 estimates. See array design above.
 
 ## Ordering Antennas
@@ -104,22 +100,22 @@ When ordering antennas and cables, it is important to ensure:
 
 Select an item from the list below to learn more:
 
--   [Antennas](https://motus.org/antennas/#antennas)
+-   [<u>Antennas</u>](https://motus.org/antennas/#antennas)
 
--   [Coaxial Cables](https://motus.org/antennas/#cables)
+-   [<u>Coaxial Cables</u>](https://motus.org/antennas/#cables)
 
--   [Radio Dongles](https://motus.org/antennas/#dongles)
+-   [<u>Radio Dongles</u>](https://motus.org/antennas/#dongles)
 
--   [Connectors](https://motus.org/antennas/#connectors)
+-   [<u>Connectors</u>](https://motus.org/antennas/#connectors)
 
 ## Antenna Anatomy
 
 ### Yagi-uda
 
-This antenna, usually referred to as simply "Yagi" or more generally a
+This antenna, usually referred to as simply “Yagi” or more generally a
 directional antenna.
 
-## ![](media\image8.png){width="6.5in" height="5.291666666666667in"}
+## <img src="media\image8.png" style="width:6.5in;height:5.29167in" />
 
 ## Antenna Types
 
@@ -134,7 +130,7 @@ at a colony), or for detecting birds in close proximity to stations
 information (e.g. departure directions of songbirds from a stopover
 site).
 
-When ordering antennas, it's important to know what frequency you need
+When ordering antennas, it’s important to know what frequency you need
 it to be tuned to. For detecting Lotek tags, antennas must be tuned to
 150.1 MHz (Europe), 151.5 MHz (Australia), or 166.380 MHz (Western
 Hemisphere), depending on the region. For detecting CTT tags, antennas
@@ -142,99 +138,84 @@ must be tuned to 434 MHz.
 
 Antennas can be purchased from the following suppliers:
 
--   [Laird](https://www.arcantenna.com/plc1669-laird-yagi-heavy-duty-9-element-antenna-for-166-174-mhz-with-uhf-female-connector-track-migratory-birds.html)-
-    through Hutton in Canada Economy 2-way in US]{.ul}
-
--   [Wade Antenna\
-    [Maple Leaf Communications](http://www.mapleleafcom.com/)]{.ul}
-
--   
-
+-   [Laird](https://www.arcantenna.com/plc1669-laird-yagi-heavy-duty-9-element-antenna-for-166-174-mhz-with-uhf-female-connector-track-migratory-birds.html) (through Hutton in Canada Economy 2-way in US)
+-   Wade Antenna [LINK]
+-   [Maple Leaf Communications](http://www.mapleleafcom.com/)
 -   [Digikey](http://www.mapleleafcom.com/)
 
--   
 
 Use the table below to help select your antenna:
 
-  ---------------------------------------- ------------------------- --------------- ----------------------- --------------------
-  **Antenna type**                         **Typical price (USD)**   **Impedence**   **Theoretical range**   **Veiw**
-  **3-element Yagi**                       \$\$\$                    50 Ohms         \~5 km                  Wide directional
-  **5-element Yagi**                       \$\$\$                    50 Ohms         \~8 km                  Directional
-  **6-element Yagi**                       \$\$\$                    50 Ohms         \~10 km                 Directional
-  **9-element Yagi**                       \$\$\$                    50 Ohms         \~15 km                 Narrow directional
-  **Omnidirectional**                      \$\$\$                    50 Ohms         \~1 km                  Omnidirectional
-  Items listed in green are recommended.                                                                     
-  ---------------------------------------- ------------------------- --------------- ----------------------- --------------------
+| **Antenna type**                       | **Typical price (USD)** | **Impedence** | **Theoretical range** | **Veiw**           |
+|----------------------------------------|-------------------------|---------------|-----------------------|--------------------|
+| **3-element Yagi**                     | $$$                     | 50 Ohms       | \~5 km                | Wide directional   |
+| **5-element Yagi**                     | $$$                     | 50 Ohms       | \~8 km                | Directional        |
+| **6-element Yagi**                     | $$$                     | 50 Ohms       | \~10 km               | Directional        |
+| **9-element Yagi**                     | $$$                     | 50 Ohms       | \~15 km               | Narrow directional |
+| **Omnidirectional**                    | $$$                     | 50 Ohms       | \~1 km                | Omnidirectional    |
+| Items listed in green are recommended. |                         |               |                       |                    |
 
 ## Coax Cables
 
-+-------------+-------------+-------------+-------------+-------------+
-| **Cable     | **Typical   | **          | **Max       | **Suggested |
-| type**      | price       | Impedance** | at          | length**    |
-|             | (USD)**     |             | tenuation** |             |
-|             |             |             |             |             |
-|             |             |             | **(dB/100   |             |
-|             |             |             | ft)**       |             |
-+-------------+-------------+-------------+-------------+-------------+
-| [**[RG-58]{ | \< 100 ft.  | 53.5 Ohms   | 4.4 @ 100   | \< 50       |
-| .ul}**](htt | @           |             | MHz         | ft./15 m    |
-| ps://www.pa | \$0.83/ft.  |             |             |             |
-| sternack.co |             |             | 6.0 @ 200   |             |
-| m/flexible- |             |             | MHz         |             |
-| 0.195-rg58- |             |             |             |             |
-| 50-ohm-coax |             |             | 8.5 @ 400   |             |
-| -cable-pvc- |             |             | MHz         |             |
-| jacket-rg58 |             |             |             |             |
-| c-u-p.aspx) |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| [*          | \< 100 ft.  | 50 Ohms     | 2.3 @ 100   | \< 100      |
-| *[RG-213]{. | @           |             | MHz         | ft./30 m    |
-| ul}**](http | \$1.79/ft.  |             |             |             |
-| s://www.pas |             |             | 4.8 @ 400   |             |
-| ternack.com |             |             | MHz         |             |
-| /flexible-0 |             |             |             |             |
-| .405-rg213- |             |             |             |             |
-| 50-ohm-coax |             |             |             |             |
-| -cable-pvc- |             |             |             |             |
-| jacket-rg21 |             |             |             |             |
-| 3-u-p.aspx) |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| TWS/BMR/    | \$1.20/ft.  | 50 Ohm      | 1.5 @ 150   | Any length  |
-|             |             |             | MHz         |             |
-| [**[LM      |             |             |             |             |
-| R-400]{.ul} |             |             | 2.7 @ 450   |             |
-| **](https:/ |             |             | MHz         |             |
-| /www.paster |             |             |             |             |
-| nack.com/50 |             |             |             |             |
-| -ohm-low-lo |             |             |             |             |
-| ss-flexible |             |             |             |             |
-| -lmr400-pe- |             |             |             |             |
-| jacket-doub |             |             |             |             |
-| le-shielded |             |             |             |             |
-| -black-lmr- |             |             |             |             |
-| 400-P.aspx) |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Cable type</strong></td>
+<td><strong>Typical price (USD)</strong></td>
+<td><strong>Impedance</strong></td>
+<td><p><strong>Max attenuation</strong></p>
+<p><strong>(dB/100 ft)</strong></p></td>
+<td><strong>Suggested length</strong></td>
+</tr>
+<tr class="even">
+<td><a href="https://www.pasternack.com/flexible-0.195-rg58-50-ohm-coax-cable-pvc-jacket-rg58c-u-p.aspx"><strong><u>RG-58</u></strong></a></td>
+<td>&lt; 100 ft. @ $0.83/ft.</td>
+<td>53.5 Ohms</td>
+<td><p>4.4 @ 100 MHz</p>
+<p>6.0 @ 200 MHz</p>
+<p>8.5 @ 400 MHz</p></td>
+<td>&lt; 50 ft./15 m</td>
+</tr>
+<tr class="odd">
+<td><a href="https://www.pasternack.com/flexible-0.405-rg213-50-ohm-coax-cable-pvc-jacket-rg213-u-p.aspx"><strong><u>RG-213</u></strong></a></td>
+<td>&lt; 100 ft. @ $1.79/ft.</td>
+<td>50 Ohms</td>
+<td><p>2.3 @ 100 MHz</p>
+<p>4.8 @ 400 MHz</p></td>
+<td>&lt; 100 ft./30 m</td>
+</tr>
+<tr class="even">
+<td><p>TWS/BMR/</p>
+<p><a href="https://www.pasternack.com/50-ohm-low-loss-flexible-lmr400-pe-jacket-double-shielded-black-lmr-400-P.aspx"><strong><u>LMR-400</u></strong></a></p></td>
+<td>$1.20/ft.</td>
+<td>50 Ohm</td>
+<td><p>1.5 @ 150 MHz</p>
+<p>2.7 @ 450 MHz</p></td>
+<td>Any length</td>
+</tr>
+</tbody>
+</table>
 
-A helpful guide on coaxial cables can be found on the [Wilson
+A helpful guide on coaxial cables can be found on the [<u>Wilson
 Amplifiers
-website](https://www.wilsonamplifiers.com/blog/understanding-coaxial-cables-the-complete-guide/)
+website</u>](https://www.wilsonamplifiers.com/blog/understanding-coaxial-cables-the-complete-guide/)
 
-A catalogue of cables and their specifications can be found on [Allied
-Wire &
-Cable](https://www.awcwire.com/producttoc.aspx?id=coaxial-cable).
+A catalogue of cables and their specifications can be found on
+[<u>Allied Wire &
+Cable</u>](https://www.awcwire.com/producttoc.aspx?id=coaxial-cable).
 
--   **RG58** -- basic communications cable that typically comes with a
+-   **RG58** – basic communications cable that typically comes with a
     BNC connector. Best used for lengths less than 50′. The least
     expensive option.
 
--   **RG213** -- higher grade cable that can be used at length of up to
+-   **RG213** – higher grade cable that can be used at length of up to
     100′ with low signal loss. Custom cable ends depending on
     distributor/manufaturer. Moderate price.
 
--   **TWS/LMR-400** -- similar to the RG-213, but higher quality
+-   **TWS/LMR-400** – similar to the RG-213, but higher quality
     (stronger weather/sun resistance) coating. Best for longer-term
     installations and long cable length. Most expensive. Manufacture can
-    suggest which cable is best for your needs -- LMR is generally more
+    suggest which cable is best for your needs – LMR is generally more
     affordable.
 
 -   **BMR-400** - available from Maple Leaf Communications, this cable
@@ -242,12 +223,14 @@ Cable](https://www.awcwire.com/producttoc.aspx?id=coaxial-cable).
     and easier to work with than LMR-400, while offering similar
     attenuation.
 
-Motus Pro Tip - The heavier guage cables can be buly to work with and
+{% hint style='info' %}
+**Motus Pro Tip** - The heavier guage cables can be buly to work with and
 awkward to connect inside the receiver. Short jumper cables with smaller
 guage can be used to help work in tight spaces. Insert picture and
 example from Maple Leaf. However, this does increase the number of
 connections which may result in a slight decrease in signal strength
 (see connectors below).
+{% hint %}
 
 ## Radio Dongles
 
@@ -256,28 +239,26 @@ convert analog signal received by the antennas into a digital signal
 that can be interpreted by the SensorGnome . Note that Lotek receivers
 have a built-in converter and do not require these for station
 operation. Note that SensorStations only need an SDR for antennas tuned
-for Lotek tags (anything that isn't 434 MHz).
+for Lotek tags (anything that isn’t 434 MHz).
 
-While there are dozens of available SDR's on the market, only four
+While there are dozens of available SDR’s on the market, only four
 models are compatible with SensorGnomes and SensorStations. Most
 commonly used are the **FUNcube Pro Plus** which have the smallest
-signal-to-noise ratio (*[SNR]{.ul}*), *[noise figure]{.ul}*, and *[DC
-voltage spike]{.ul}* (poor reception at nominal frequency), and power
-rating. However, FUNcube dongles are the most expensive, costing \~\$200
-USD, compared to \$35 USD for the **RTL-SDR**. Despite the high price,
-we currently recommend FunCubes as the other SDR's have not been
-properly tested or optimized for use. See the table below for more
-information:
+signal-to-noise ratio (*<u>SNR</u>*), *<u>noise figure</u>*, and *<u>DC
+voltage spike</u>* (poor reception at nominal frequency), and power
+rating. However, FUNcube dongles are the most expensive, costing \~$200
+USD, compared to $35 USD for the **RTL-SDR**. Despite the high price, we
+currently recommend FunCubes as the other SDR’s have not been properly
+tested or optimized for use. See the table below for more information:
 
-  ---------------------- ----------------- ------------------ ---------------------- ----------------- --------------------------
-  **Receiver**           **Price (USD)**   **Power in use**   **Power while idle**   **Reliability**   **Typical noise figure**
-  **FUNcube Pro Plus**   \$225             0.8 W (48 kHz)     0.8 W (48 kHz)         Very reliable     3.5 dB @ 145 MHz
-  **RTL-SDR blog V3**    \$22              1.5 W              0.7 W                  Unknown           \~5 dB @ 144.3 MHz
-  **NESDR SMArt v4**     \$24              1.54 W             \<0.25 W               Unknown           Unknown
-  **NESDR SMArtee**      \$26              1.43 W             Unknown                Unknown           Unknown
-  **NESDR Smart XTR**    \$38              1 W                0.6 W                  Unknown           Unknown
-  **CTT\***              \$100             \<0.25 W           \<0.25 W               Unknown           Unknown
-  ---------------------- ----------------- ------------------ ---------------------- ----------------- --------------------------
+| **Receiver**         | **Price (USD)** | **Power in use** | **Power while idle** | **Reliability** | **Typical noise figure** |
+|----------------------|-----------------|------------------|----------------------|-----------------|--------------------------|
+| **FUNcube Pro Plus** | $225            | 0.8 W (48 kHz)   | 0.8 W (48 kHz)       | Very reliable   | 3.5 dB @ 145 MHz         |
+| **RTL-SDR blog V3**  | $22             | 1.5 W            | 0.7 W                | Unknown         | \~5 dB @ 144.3 MHz       |
+| **NESDR SMArt v4**   | $24             | 1.54 W           | &lt;0.25 W           | Unknown         | Unknown                  |
+| **NESDR SMArtee**    | $26             | 1.43 W           | Unknown              | Unknown         | Unknown                  |
+| **NESDR Smart XTR**  | $38             | 1 W              | 0.6 W                | Unknown         | Unknown                  |
+| **CTT\***            | $100            | &lt;0.25 W       | &lt;0.25 W           | Unknown         | Unknown                  |
 
 \* CTT dongles listen to 434 MHz and are only used to make Sensorgnomes
 compatible with CTT tags.
@@ -289,7 +270,7 @@ Items listed in green are recommended.
 There are several types of connectors that are used with radio antennas
 and coaxial cables, but not all perform equally. For instance, certain
 connectors are better at preventing water and dust ingress. For this
-reason, it's important to know what kind of connectors your antennas
+reason, it’s important to know what kind of connectors your antennas
 have when being purchased, and which are most suitable for a Motus
 station. There are four connector types commonly found in Motus station
 setups: *UHF* (*PL-259*); *N-type*; *BNC*; and *SMA*.
@@ -304,14 +285,12 @@ The following table outlines where we typically see these connectors.
 Dongles are the analog-to-digital converters that are part of the
 Sensorgnome (typically we use FUNcube dongles, or FCD).
 
-  --------------- ------------ -------------------------------- ----------------- ------
-  **Connector**   **Device**   **Water resistance**                               
-                  *Antenna*    *Cables*                         *Radio Dongles*   
-  **UHF**         Common       Common                           Never             Good
-  **N-type**      Common       Common                           Never             Best
-  **BNC**         Some Lotek   Common                           Never             Poor
-  **SMA**         Never        Some adapter cables GPS cables   Always            Good
-  --------------- ------------ -------------------------------- ----------------- ------
+| **Connector** | *Antenna*  | *Cables*                       | *Radio Dongles* |**Water resistance** |
+|---------------|------------|--------------------------------|-----------------|------|
+| **UHF**       | Common     | Common                         | Never           | Good |
+| **N-type**    | Common     | Common                         | Never           | Best |
+| **BNC**       | Some Lotek | Common                         | Never           | Poor |
+| **SMA**       | Never      | Some adapter cables GPS cables | Always          | Good |
 
 Items listed in green are recommended.
 
@@ -330,6 +309,8 @@ The following are some common uses of these connectors:
     and therefore less signal loss, but may be more expensive due to
     custom ends). Sensorgnome only.
 
-Motus Pro Tip - every connection, every adapter, may result in lowering
+{% hint style='info' %}
+**Motus Pro Tip** - Every connection, every adapter, may result in lowering
 the sensitivity of station to detect tags. Make every effort to minimize
 the number of connections/adapters between the antenna and the receiver.
+{% hint %}

@@ -1,13 +1,15 @@
 # Station Installation
 
-## Motus Pro Tip - Do not take short-cuts. Any short-cuts or sloppy workmanship drastically increases the chance that some kind of problem will occur and the station won't be operating when you need it to.
+{% hint style='info' %}
+**Motus Pro Tip** - Do not take short-cuts. Any short-cuts or sloppy workmanship drastically increases the chance that some kind of problem will occur and the station won’t be operating when you need it to.
+{% hint %}
 
 ## Antenna and Coax Assembly
 
 Several varieties of antennas exist of which only a few will be covered
 here. All antennas should come with their own assembly instructions
 which are more or less easy to follow so we will not go into great
-detail here. Please see [antenna anatomy](#antenna-anatomy) for
+detail here. Please see [<u>antenna anatomy</u>](#antenna-anatomy) for
 more details on parts.
 
 *Note: The driven element and the attached connector are the most
@@ -32,8 +34,8 @@ resulting in an ineffective antenna.*
     coaxial cable organisation. Used to support the coax cable along the
     antenna boom and mast.
 
--   **Hex nuts and bolts.** We use ¼" x 2" bolts for tripod assembly and
-    ¼" x 1" bolts for affixing solar panels to the tripod**.** Use
+-   **Hex nuts and bolts.** We use ¼” x 2” bolts for tripod assembly and
+    ¼” x 1” bolts for affixing solar panels to the tripod**.** Use
     zinc-plates steel unless the station is deployed in a marine area
     where stainless steel should be used.
 
@@ -66,7 +68,7 @@ Connecting
 
 ## Storage Container Assembly
 
-What's the purpose of the storage container - primarily to store and
+What’s the purpose of the storage container - primarily to store and
 protect battery and charge controller.
 
 Include recommendations to mount receivers on the mast or outside of a
@@ -75,7 +77,9 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 ### Heavy-duty Container
 
-#### Motus Pro Tip - DO NOT USE cheap plastic rubbermaid, or other plastic storage boxes that are not meant to be kept outside for extended periods of time.
+{% hint style='info' %}
+**Motus Pro Tip** - DO NOT USE cheap plastic rubbermaid, or other plastic storage boxes that are not meant to be kept outside for extended periods of time.
+{% hint %}
 
 #### Supplies
 
@@ -89,13 +93,13 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 -   To prevent water ingress:
 
-    -   2-inch pipe elbow (90 degrees) similar to: [NIBCO 2 in. ABS DWV
-        90-Degree H x H Vent
-        Elbow-C5807VHD2](https://www.homedepot.com/p/NIBCO-2-in-ABS-DWV-90-Degree-H-x-H-Vent-Elbow-C5807VHD2/100344401)
+    -   2-inch pipe elbow (90 degrees) similar to: [<u>NIBCO 2 in. ABS
+        DWV 90-Degree H x H Vent
+        Elbow-C5807VHD2</u>](https://www.homedepot.com/p/NIBCO-2-in-ABS-DWV-90-Degree-H-x-H-Vent-Elbow-C5807VHD2/100344401)
 
-    -   2-inch pipe bushing, similar to: [2 in. x 1-1/2 in. ABS DWV
+    -   2-inch pipe bushing, similar to: [<u>2 in. x 1-1/2 in. ABS DWV
         Spig. x Hub Flush
-        Bushing-C58012FHD2112](https://www.homedepot.com/p/2-in-x-1-1-2-in-ABS-DWV-Spig-x-Hub-Flush-Bushing-C58012FHD2112/100342353)
+        Bushing-C58012FHD2112</u>](https://www.homedepot.com/p/2-in-x-1-1-2-in-ABS-DWV-Spig-x-Hub-Flush-Bushing-C58012FHD2112/100342353)
 
     -   Electrical tape or ABS cement
 
@@ -122,46 +126,46 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 -   Drill
 
--   [2" hole
-    saw](https://www.homedepot.com/p/Milwaukee-2-in-Hole-Dozer-Bi-Metal-Hole-Saw-with-3-8-in-Arbor-Pilot-Bit-49-56-9667/202327737)
+-   [<u>2” hole
+    saw</u>](https://www.homedepot.com/p/Milwaukee-2-in-Hole-Dozer-Bi-Metal-Hole-Saw-with-3-8-in-Arbor-Pilot-Bit-49-56-9667/202327737)
 
 -   Drill bits for screws
 
 #### Instructions
 
-1.  Drill 2" hole on one end of the Action Packer
+1.  Drill 2” hole on one end of the Action Packer
 
 2.  To prevent water ingress:
 
-    a.  Place the 2-inch pipe bushing through the hole from the inside
+    1.  Place the 2-inch pipe bushing through the hole from the inside
         of the bin.
 
-    b.  Apply a single layer of electrical tape or ABS cement to the
+    2.  Apply a single layer of electrical tape or ABS cement to the
         exposed end of the bushing on the outside of the bin.
 
-    c.  Attach the 2-inch pipe elbow to the bushing and force into place
+    3.  Attach the 2-inch pipe elbow to the bushing and force into place
         with the open end of the elbow pointing down.
 
 3.  To prevent insect and rodent ingress
 
-    a.  Cut a hole in the bottom of the container to allow water to
+    1.  Cut a hole in the bottom of the container to allow water to
         drain.
 
-    b.  Cut a piece of aluminum window screen about 1 inch (2.5 cm)
+    2.  Cut a piece of aluminum window screen about 1 inch (2.5 cm)
         larger than the hole.
 
-    c.  Prepare the epoxy
+    3.  Prepare the epoxy
 
-    d.  Place the piece of aluminum window screen over the hole and
+    4.  Place the piece of aluminum window screen over the hole and
         apply a generous amount of the mixed epoxy around the entire
         edge, ensuring no gaps remain.
 
-    e.  Once you have inserted all necessary cables into the bin,
+    5.  Once you have inserted all necessary cables into the bin,
         including your GPS and SensorGnome, you will need to pack the
         remaining space in the elbow with plastic bags (insects) and/or
         steel wool (rodents).
 
-    f.
+    6.  
 
 4.  Insert cable into the case
 
@@ -175,18 +179,14 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 #### Supplies
 
--   [Solar Panel](#solar-power)
-
--   [Battery](#battery)
-
--   [Charge Controller](#charge-controller)
-
--   [14 AWG Spade
-    connectors](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650)
-    and [stripper/crimping
-    tool](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
-
--   [https://www.kleintools.com/catalog/combination-cutting-tools/katapult-wire-stripper-and-cutter-solid-and-stranded-wire]{.ul}
+-   [<u>Solar Panel</u>](#solar-power)
+-   [<u>Battery</u>](#battery)
+-   [<u>Charge Controller</u>](#charge-controller)
+-   [<u>14 AWG Spade
+    connectors</u>](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650)
+    and [<u>stripper/crimping
+    tool</u>](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
+-   <u>https://www.kleintools.com/catalog/combination-cutting-tools/katapult-wire-stripper-and-cutter-solid-and-stranded-wire</u>
 
 #### Tools
 
@@ -196,7 +196,7 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 #### Instructions
 
-1.
+1.  
 
 ## Pop-Tower Assembly
 
@@ -217,7 +217,7 @@ to mount a solar panel if necessary.
 -   Tripod feet will sink into soft ground - use gravel or choose a
     hard/dry location to install. Also affix pieces of wood to each
     trippod foot to support the weight and movement and to provent
-    sunking ('snow-shoe).
+    sunking (‘snow-shoe).
 
 -   Ground must be soft enough to insert anchors (1 m/3 ft. or more,
     depending on hardness).
@@ -226,7 +226,7 @@ to mount a solar panel if necessary.
     heavy rains or tidal surges.
 
 -   Footprint of a pop-tower with guy wires has a radius equal to 70% of
-    the tower's final height.
+    the tower’s final height.
 
 #### Hardware
 
@@ -244,7 +244,7 @@ to mount a solar panel if necessary.
 
     -   Guy wires
 
-    -   Quick links and/or carabiners (max 3/16")
+    -   Quick links and/or carabiners (max 3/16”)
 
     -   \[Optional\] Turnbuckles and stainless steel wire (snare wire)
 
@@ -252,30 +252,30 @@ to mount a solar panel if necessary.
 
     -   Anchors
 
-        -   Can use \#6 rebar in 5-foot sections or [ground
-            anchors](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240).
+        -   Can use \#6 rebar in 5-foot sections or [<u>ground
+            anchors</u>](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240).
 
--   [Antennas](#antennas-cables-and-dongles)
+-   [<u>Antennas</u>](#antennas-cables-and-dongles)
 
--   [Coaxial Cable](#coax-cables)
+-   [<u>Coaxial Cable</u>](#coax-cables)
 
--   [Automated Receiver](#automated-telemetry-receivers)
+-   [<u>Automated Receiver</u>](#automated-telemetry-receivers)
 
 #### Tools
 
 -   Impact driver and/or ratchet
 
-    -   7/16" socket
+    -   7/16” socket
 
-    -   ½" socket
+    -   ½” socket
 
--   Ratchet with ½" drive
+-   Ratchet with ½” drive
 
 -   Drill
 
     -   Metal bits
 
-    -   Phillips/Robinson's for screws
+    -   Phillips/Robinson’s for screws
 
 ### Instructions
 
@@ -307,7 +307,7 @@ to mount a solar panel if necessary.
         each foot to stand on.
 
 8.  If you are mounting a solar panel, rotate the tripod so that the
-    'ladder' side with four crossbars is facing south.
+    ‘ladder’ side with four crossbars is facing south.
 
 9.  Place three anchors 7 feet (2 m) from the base of the mast such that
     once the guy wires are attached they are between the tripod legs.
@@ -320,39 +320,39 @@ to mount a solar panel if necessary.
 
     -   In-line wire tensioner:
 
-        i.  Remove tensioner lock.
+        1.  Remove tensioner lock.
 
-        ii. Place guy wire in the slot of tensioner.
+        2.  Place guy wire in the slot of tensioner.
 
-        iii. Insert ½" drive ratchet into square slot of tensioner.
+        3.  Insert ½” drive ratchet into square slot of tensioner.
 
-        iv. Use the ratchet to tightly spool guy wire until taught, but
+        4.  Use the ratchet to tightly spool guy wire until taught, but
             not too taught.
 
             -   Tripod legs will lift off the ground if too tight, or
                 the mast will bend.
 
-        v.  Insert tensioner lock in opposing holes to keep guy wire in
+        5.  Insert tensioner lock in opposing holes to keep guy wire in
             place.
 
-        vi. Multiple tensioners may be necessary if there is too much
+        6.  Multiple tensioners may be necessary if there is too much
             excess guy wire.
 
     -   Turnbuckle:
-        [https://www.youtube.com/watch?v=zz_nS79_JDg&t=386s](https://www.youtube.com/watch?v=zz_nS79_JDg&t=386s)
+        [<u>https://www.youtube.com/watch?v=zz\_nS79\_JDg&t=386s</u>](https://www.youtube.com/watch?v=zz_nS79_JDg&t=386s)
 
-        i.  Before all guy wires are taught, loosen the turnbuckle until
+        1.  Before all guy wires are taught, loosen the turnbuckle until
             only 2 full turns remain.
 
-        ii. Tighten guy wires, either with in-line wire tensioners or
+        2.  Tighten guy wires, either with in-line wire tensioners or
             another method.
 
-        iii. Use turnbuckles to finely adjust wire tension until all
-             sides have equal tension.
+        3.  Use turnbuckles to finely adjust wire tension until all
+            sides have equal tension.
 
-        iv. Use stainless steel wire to immobilize the turnbuckle using
-            the [double-wrap
-            method.](https://www.youtube.com/watch?v=zz_nS79_JDg&t=385s)
+        4.  Use stainless steel wire to immobilize the turnbuckle using
+            the [<u>double-wrap
+            method.</u>](https://www.youtube.com/watch?v=zz_nS79_JDg&t=385s)
 
 12. Confirm tower is being held securely in place by guy wires.
 
@@ -360,4 +360,4 @@ to mount a solar panel if necessary.
 
 1.  With antennas assembled w
 
--
+-   
