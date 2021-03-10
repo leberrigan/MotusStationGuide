@@ -1,8 +1,10 @@
+---
+description: >-
+  This guide has been created to help collaborators decide on how and where to
+  install and maintain Motus stations.
+---
+
 # Introduction
-
-This guide has been created to help collaborators decide on how and where to install and maintain Motus stations.
-
-## Introduction
 
 There are several different ways a Motus station can be installed all of which depend on the location, purpose of the deployment, the infrastructure and equipment available. This guide will provide an overview of how different stations can be installed as well as some in-depth instructions on how to set up a variety of fixed, or free-standing towers with Yagi antennas and solar power. This booklet will not include a set of exhaustive instructions, but is intended as a guide that may need to be adapted to your project.
 
