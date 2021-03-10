@@ -28,7 +28,7 @@
 | - | - | Ground anchor | [Home depot](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240) |
 | Non-penetrating roof mount | Non-penetrating roof mount | NPRM-series \(light- to heavy-duty\) | [Wade Antenna](http://wadeantenna.com/product/heavy-duty-non-penetrating-roof-mount/) |
 | - | Mast | Masting | [Wade Antenna](http://wadeantenna.com/product/masting/) |
-|  |  |  |  |
+| Power supply |  | Fused battery lead | [Amazon](https://www.amazon.ca/gp/product/B07CK784LZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
