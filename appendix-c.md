@@ -41,9 +41,8 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Antennas</b>
-        <img src="/media/image10.png"
-        alt/>
+      <th style="text-align:left"><b>Antennas</b> 
+        <img src=".gitbook/assets/image10.png" alt/>
       </th>
       <th style="text-align:left">
         <p><b>Description</b>
@@ -74,8 +73,7 @@
         <p><b>Tripod</b>
         </p>
         <p>
-          <img src="/media/image11.jpg"
-          alt/>
+          <img src=".gitbook/assets/image11.jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -97,8 +95,7 @@
         <p><b>Mast</b>
         </p>
         <p>
-          <img src="/media/image12.jpg"
-          alt/>
+          <img src=".gitbook/assets/image12.jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -119,8 +116,7 @@
         <p><b>Guy wires and spools</b>
         </p>
         <p>
-          <img src="/media/image13.jpg"
-          alt/>
+          <img src=".gitbook/assets/image13.jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -143,8 +139,7 @@
         <p><b>Coaxial cable</b>
         </p>
         <p>
-          <img src="/media/image14.gif"
-          alt/>
+          <img src=".gitbook/assets/image14.gif" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -165,10 +160,8 @@
         <p><b>Mast collar &amp; quick links</b>
         </p>
         <p>
-          <img src="/media/image15.jpg"
-          alt/>
-          <img src="/media/image16.jpg"
-          alt/>
+          <img src=".gitbook/assets/image15.jpg" alt/>
+          <img src=".gitbook/assets/image16.jpg" alt/>
         </p>
         <p><em>Mast Collar Quick Link</em>
         </p>
@@ -208,9 +201,8 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Charge controller</b>
-        <img src="/media/image17.png"
-        alt/>
+      <td style="text-align:left"><b>Charge controller</b> 
+        <img src=".gitbook/assets/image17.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Description</b>
@@ -240,8 +232,7 @@
         <p><b>Battery</b>
         </p>
         <p>
-          <img src="/media/image18.jpg"
-          alt/>
+          <img src=".gitbook/assets/image18.jpg" alt/>
         </p>
         <p><em>Fused battery leads</em>
         </p>
@@ -268,8 +259,7 @@
         <p><b>Action packer</b>
         </p>
         <p>
-          <img src="/media/image19.jpg"
-          alt/>
+          <img src=".gitbook/assets/image19.jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -297,14 +287,12 @@
         <p><b>Computer</b>
         </p>
         <p>
-          <img src="/media/image20.png"
-          alt/>
+          <img src=".gitbook/assets/image20.png" alt/>
         </p>
         <p><em>BeagleBone</em>
         </p>
         <p>
-          <img src="/media/image21.png"
-          alt/>
+          <img src=".gitbook/assets/image21.png" alt/>
         </p>
         <p><em>Raspberry Pi</em>
         </p>
@@ -330,8 +318,7 @@
         <p><b>DC-DC Voltage Converter</b>
         </p>
         <p>
-          <img src="/media/image22.png"
-          alt/>
+          <img src=".gitbook/assets/image22.png" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -358,8 +345,7 @@
         <p><b>USB Hub</b>
         </p>
         <p>
-          <img src="/media/image23.jpg"
-          alt/>
+          <img src=".gitbook/assets/image23.jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -383,8 +369,7 @@
         <p><b>GPS</b>
         </p>
         <p>
-          <img src="/media/image24.png"
-          alt/>
+          <img src=".gitbook/assets/image24.png" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -404,19 +389,19 @@
   </tbody>
 </table>
 
-![](/media/image25.png)
+![](.gitbook/assets/image25.png)
 
 **Inside Action Packer**
 
-![](/media/image26.png)
+![](.gitbook/assets/image26.png)
 
 **Inside Computer Case with Raspberry Pi \(No USB Hub needed\)**
 
-![](/media/image27.png)
+![](.gitbook/assets/image27.png)
 
 **Inside Computer Case with BeagleBone \(USB Hub Present\)**
 
-![](/media/image28.png)
+![](.gitbook/assets/image28.png)
 
 **USB Port Numbering for Raspberry Pi or BeagleBone computers.**
 
@@ -424,8 +409,9 @@ Note BeagleBone computers only has 1 USB port so it must use a USB Hub to expand
 
 | **Raspberry Pi** | **USB Hub \(for BeagleBone\)** |
 | :--- | :--- |
-| ![](/media/image29.png) | ![](/media/image30.png) |
+| ![](.gitbook/assets/image29.png) | ![](.gitbook/assets/image30.png) |
 
 **Charge Controller Wiring**
 
-![](/media/image31.jpg)
+![](.gitbook/assets/image31.jpg)
+

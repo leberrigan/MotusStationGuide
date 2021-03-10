@@ -1,6 +1,8 @@
-# Testing Receiver Antenna Ranges Using a Tag
+---
+description: Please send any comments or additions to motus@birdscanada.org
+---
 
-_Please send any comments or additions to_ [_motus@birdscanada.org_](mailto:motus@birdscanada.org)
+# Testing Receiver Antenna Ranges Using a Tag
 
 Estimated antenna detection ranges \(“[radiation patterns](https://en.wikipedia.org/wiki/Radiation_pattern)”\) are purely theoretical and based on ideal conditions so they do not actually reflect the true ranges or shapes of any real antenna \(Taylor et al 2017; Crewe et al. 2019\). The actual range of an antenna is not easy to calculate because it depends on several factors such as: transmitted signal \(by a tag\), antenna type and orientation, length and type of coaxial cable, receiver type, and environmental conditions. Best estimates of mean or max antenna ranges are based primarily on biological data when simultaneous detections are recorded by antennas from different stations.
 
@@ -54,7 +56,7 @@ To simulate an animal in the air, affix the dummy animal to a helium balloon. _N
 * Optionally, you can do this with a drone but don’t ask us how to fly it!
 * It is also extremely difficult to know the position of the dummy within the [radiation pattern](https://en.wikipedia.org/wiki/Radiation_pattern) of the antenna in order to judge peak performance. [See description of different antenna types and radiation patterns here.](https://motus.org/antennas/#antennas)
 
-![](/media/image9.png)
+![](.gitbook/assets/image9.png)
 
 ### Analyzing your results
 
@@ -87,3 +89,4 @@ You may be able to test two tags at different vertical positions simultaneously,
 [Tremblay, Junior A., et al. "A low-cost technique for radio-tracking wildlife using a small standard unmanned aerial vehicle." Journal of Unmanned Vehicle Systems 5.3 \(2017\): 102-108.](https://www.nrcresearchpress.com/doi/pdf/10.1139/juvs-2016-0021)
 
 [Moore, Jesse. "TRACKING MIGRATORY BIRDS: APPLYING A PASSIVE TRACKING TECHNIQUE USING DIRECTION OF ARRIVAL FROM VHF RADIO TAGS." \(2020\).](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=2837&context=theses)
+

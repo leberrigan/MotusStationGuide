@@ -8,8 +8,9 @@ Before deploying any stations, you need to know what the primary purpose of the 
 
 Ideally, adjacent stations will complement one another; that is, they operate on similar frequencies and have antennas which point towards one another to provide detections of tagged animals as they pass between the stations. Multiple receivers can be employed to build a receiver ‘fence’ to detect any animals that may pass over a geographic area. Examples of these can be seen in the North-eastern US and along the North Sea of Europe. In Ontario, where many more stations are available, there is a grid of stations \(or series of fences\) to allow for better spatial resolution of movements. On study sites like Sable Island and Bon Portage Islands in Nova Scotia very small grids have been used to study local movements.
 
-| [![](/media/image2.png) <br />Receiver Fence  <br />(Panama Canal)](https://motus.org/wp-content/uploads/2020/02/receiver_fence_Panama.png) | [![](/media/image3.png) <br />Receiver Grid  <br />(Ontario)](https://motus.org/wp-content/uploads/2020/02/receiver_grid_Ontario.png) | [![](/media/image4.png) <br /> Local Array  <br />(Bon Portage Island\)](https://motus.org/wp-content/uploads/2020/02/receiver_local_BonPortage.png) |
-| :--- | :--- | :--- |
+| [![](.gitbook/assets/image2.png)  Receiver Fence   \(Panama Canal\)](https://motus.org/wp-content/uploads/2020/02/receiver_fence_Panama.png) | [![](.gitbook/assets/image3.png)  Receiver Grid   \(Ontario\)](https://motus.org/wp-content/uploads/2020/02/receiver_grid_Ontario.png) | [![](.gitbook/assets/image4.png)   Local Array   \(Bon Portage Island\)](https://motus.org/wp-content/uploads/2020/02/receiver_local_BonPortage.png) |
+| :---: | :---: | :---: |
+
 
 When selecting a site, it’s important to consider how the landscape features will affect the range of your antennas. Generally, higher stations have a greater range and detection probability of passing animals, but have a more limited probability of detecting local movements. In most instances, stations should be placed in the highest elevation possible within the area of interest, ensuring there is a clear line of sight in each direction you wish to point the antennas. It’s also important to ensure there aren’t any obstructions immediately behind the antennas \(within a few meters\), especially metal surfaces like roofing.
 
@@ -59,3 +60,4 @@ The following list includes equipment commonly used across North America. For eq
   * Also requires: guy lines and anchors when mounting multiple antennas
 
 With all these mounting methods in mind, we recommend you contact your local supplier for [Wade Antenna](http://wadeantenna.com/) to find the best solution for your location.
+

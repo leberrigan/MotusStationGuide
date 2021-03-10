@@ -11,14 +11,13 @@ There are several different ways a Motus station can be installed all of which d
 This guide is intended as a way to help individuals install their own Motus station that should be adapted to the needs and abilities of each individual. In addition, many installations include working at heights above 2 meters \(6 feet\). Follow instructions provided by suppliers and do not work without adequate knowledge or training. Individual projects will have to abide by local health and safe regulations, or those of their host organization.
 
 {% hint style="info" %}
+**Motus Pro Tips** 
 
-**Motus Pro Tips** WEAR GLOVES!
-
+* **Wear gloves!**
 * Good foot wear: steel toes and grip
 * High-vis and hard hats
 * Harness and adequate training when working from heights
 * Electrocution -- overhead wires
-
 {% endhint %}
 
 ### What is a Motus Station?
@@ -27,4 +26,5 @@ A Motus station is an automated radio telemetry station designed to listen to sp
 
 ### Definitions
 
-With all the terminology being thrown around with this technology, it can be hard to keep track of what’s what. [Go to Appendix A for a terminology reference.](appendix-a.md)
+With all the terminology being thrown around with this technology, it can be hard to keep track of what’s what.[ See to **Appendix A** for a terminology reference.](appendix-a.md)
+

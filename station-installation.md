@@ -2,13 +2,9 @@
 
 {% hint style="info" %}
 
-**Motus Pro Tip** - Do not take short-cuts. Any short-cuts or sloppy workmanship drastically increases the chance that some kind of problem will occur and the station won’t be operating when you need it to.
-
-{% hint style="info" %}
-
 ## Antenna and Coax Assembly
 
-Several varieties of antennas exist of which only a few will be covered here. All antennas should come with their own assembly instructions which are more or less easy to follow so we will not go into great detail here. Please see [antenna anatomy](station-installation.md#antenna-anatomy) for more details on parts.
+Several varieties of antennas exist of which only a few will be covered here. All antennas should come with their own assembly instructions which are more or less easy to follow so we will not go into great detail here. Please see [antenna anatomy](antennas.md#antenna-anatomy) for more details on parts.
 
 _Note: The driven element and the attached connector are the most sensitive parts of a Yagi antenna; pay special attention to prevent damage to these parts and any connections. Damage to the driven element may cause the antenna to no longer be tuned to the desired frequency resulting in an ineffective antenna._
 
@@ -38,10 +34,6 @@ What’s the purpose of the storage container - primarily to store and protect b
 Include recommendations to mount receivers on the mast or outside of a box on the ground where possible, or if there is any remote risk of flooding. It will also reduce potential damage from rodents and insects.
 
 ### Heavy-duty Container
-
-{% hint style="info" %}
-
-**Motus Pro Tip** - DO NOT USE cheap plastic rubbermaid, or other plastic storage boxes that are not meant to be kept outside for extended periods of time.
 
 {% hint style="info" %}
 
@@ -101,20 +93,13 @@ Include recommendations to mount receivers on the mast or outside of a box on th
 * [Solar Panel](station-installation.md#solar-power)
 * [Battery](station-installation.md#battery)
 * [Charge Controller](station-installation.md#charge-controller)
-* \[14 AWG Spade
-
-  connectors&lt;/u&gt;\]\([https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650)\)
-
-  and \[stripper/crimping
-
-  tool&lt;/u&gt;\]\([https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)\)
-
-* [https://www.kleintools.com/catalog/combination-cutting-tools/katapult-wire-stripper-and-cutter-solid-and-stranded-wire](https://www.kleintools.com/catalog/combination-cutting-tools/katapult-wire-stripper-and-cutter-solid-and-stranded-wire)
+* [14 AWG Spade](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650) [connectors](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650) 
 
 #### Tools
 
 * Phillips screwdriver
 * Small flathead screwdriver
+* [Stripper/crimping tool](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
 
 #### Instructions
 
@@ -147,9 +132,9 @@ A pop-tower is a type of standalone station that uses a tripod + telescopic mast
   * \[Optional\] Turnbuckles and stainless steel wire \(snare wire\)
   * In-line wire tensioners.
   * Anchors
-    * Can use \#6 rebar in 5-foot sections or \[ground
+    * Can use \#6 rebar in 5-foot sections or [ground](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240)
 
-      anchors&lt;/u&gt;\]\([https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240)\).
+      [anchors](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240).
 * [Antennas](station-installation.md#antennas-cables-and-dongles)
 * [Coaxial Cable](station-installation.md#coax-cables)
 * [Automated Receiver](station-installation.md#automated-telemetry-receivers)
