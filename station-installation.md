@@ -15,6 +15,8 @@ _Note: The driven element and the attached connector are the most sensitive part
 * **Zip ties, cable ties, zap straps.** These are indispensable for coaxial cable organisation. Used to support the coax cable along the antenna boom and mast.
 * **Hex nuts and bolts.** We use ¼” x 2” bolts for tripod assembly and ¼” x 1” bolts for affixing solar panels to the tripod**.** Use zinc-plates steel unless the station is deployed in a marine area where stainless steel should be used.
 
+{% page-ref page="appendix-c.md" %}
+
 ### Antenna mount
 
 Antennas are usually attached to a metal pipe or mast using a type of mounting bracket. Small antennas, like 434 MHz Yagis, all omni antennas, and 3- to 5- element Yagis for the 150-166 MHz band can be butt-mounted using a bracket which fits onto one end of the boom. Large antennas, like 6- to 9- element Yagis for the 150-166 MHz band need to be mounted along their mid-point to even out the lateral force on the mast. Larger antenna can be butt-mounted, but usually require support wires attached to the mid or end point of the antenna.
@@ -67,6 +69,8 @@ Include recommendations to mount receivers on the mast or outside of a box on th
 * [2” hole saw](https://www.homedepot.com/p/Milwaukee-2-in-Hole-Dozer-Bi-Metal-Hole-Saw-with-3-8-in-Arbor-Pilot-Bit-49-56-9667/202327737)
 * Drill bits for screws
 
+{% page-ref page="appendix-c.md" %}
+
 #### Instructions
 
 1. Drill 2” hole on one end of the Action Packer
@@ -100,6 +104,8 @@ Include recommendations to mount receivers on the mast or outside of a box on th
 * Phillips screwdriver
 * Small flathead screwdriver
 * [Stripper/crimping tool](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
+
+{% page-ref page="appendix-c.md" %}
 
 #### Instructions
 
@@ -148,6 +154,8 @@ A pop-tower is a type of standalone station that uses a tripod + telescopic mast
 * Drill
   * Metal bits
   * Phillips/Robinson’s for screws
+
+{% page-ref page="appendix-c.md" %}
 
 ### Instructions
 
