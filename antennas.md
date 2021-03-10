@@ -4,11 +4,11 @@
 
 It is very important you select the right antenna for the purpose of the station and the type of tags you intend to detect. Antennas are optimized for reception on a particular radio frequency. Since there are multiple tag frequencies, each tag type requires its own antenna; currnetly an antenna optimized to detect Lotek tags on 166.380 Mhz will not detect CTT tags on 434 Mhz, and vice versa. Wherever possible we recommend installing “dual-mode” stations outfitted with antennas and a receiver that can detect tags tags. A dual-frequency antenna is under development, but for the time being, dual-mode stations \(those that can listen for more than one frequency, must have two different types of antenna in place.
 
-An antenna is a device used to send or receive radio signals, i.e., electromagnetic radiation. This radiation induces a voltage in conductive materials which will vary in magnitude based on the physical dimensions and orientation of the material. The induced voltage oscillates at the same frequency as the electromagnetic radiation and the amount of voltage induced is proportional to the strength of the radiation. Antennas used in this network are built \(“tuned”\) with high precision such that the induced voltage is most intense when exposed to a narrow range of frequencies. Antennas can also be shaped to select for radiation from specific directions and orientations.![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image5.gif)
+An antenna is a device used to send or receive radio signals, i.e., electromagnetic radiation. This radiation induces a voltage in conductive materials which will vary in magnitude based on the physical dimensions and orientation of the material. The induced voltage oscillates at the same frequency as the electromagnetic radiation and the amount of voltage induced is proportional to the strength of the radiation. Antennas used in this network are built \(“tuned”\) with high precision such that the induced voltage is most intense when exposed to a narrow range of frequencies. Antennas can also be shaped to select for radiation from specific directions and orientations.![](/media/image5.gif)
 
 Each antenna has a theoretical radiation pattern which represents its range in 3D space. We use the radiation pattern to predict the distance and direction we can receive signals from radio transmitters. Omnidirectional \(‘omni’\) antennas, as the name suggests, have a uniform radiation pattern that is emitted perpendicular to its axis. The thin wire attached to Lotek and CTT tags is a type of omni antenna. When used on a receiver, omni antennas provide presence/absence information, typically within a short range. This makes them ideal for fine scale studies and are indeed used with CTT SensorNodes to create a high-resolution grid.
 
-![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image6.png)![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image7.gif)
+![](/media/image6.png)![](/media/image7.gif)
 
 A torus, representing the radiation pattern of an omnidirectional antenna \(left; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)\). Cross-sectional view of a half-wave omni-directional antenna \(right; public domain, source: Wikipedia\).
 
@@ -40,7 +40,7 @@ Select an item from the list below to learn more:
 
 This antenna, usually referred to as simply “Yagi” or more generally a directional antenna.
 
-## ![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image8.png)
+## ![](/media/image8.png)
 
 ## Antenna Types
 

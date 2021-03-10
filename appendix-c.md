@@ -42,7 +42,7 @@
   <thead>
     <tr>
       <th style="text-align:left"><b>Antennas</b>
-        <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image10.png"
+        <img src="/media/image10.png"
         alt/>
       </th>
       <th style="text-align:left">
@@ -74,7 +74,7 @@
         <p><b>Tripod</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image11.jpg"
+          <img src="/media/image11.jpg"
           alt/>
         </p>
       </td>
@@ -97,7 +97,7 @@
         <p><b>Mast</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image12.jpg"
+          <img src="/media/image12.jpg"
           alt/>
         </p>
       </td>
@@ -119,7 +119,7 @@
         <p><b>Guy wires and spools</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image13.jpg"
+          <img src="/media/image13.jpg"
           alt/>
         </p>
       </td>
@@ -143,7 +143,7 @@
         <p><b>Coaxial cable</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image14.gif"
+          <img src="/media/image14.gif"
           alt/>
         </p>
       </td>
@@ -165,9 +165,9 @@
         <p><b>Mast collar &amp; quick links</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image15.jpg"
+          <img src="/media/image15.jpg"
           alt/>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image16.jpg"
+          <img src="/media/image16.jpg"
           alt/>
         </p>
         <p><em>Mast Collar Quick Link</em>
@@ -208,8 +208,8 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Charge controller</b> 
-        <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image17.png"
+      <td style="text-align:left"><b>Charge controller</b>
+        <img src="/media/image17.png"
         alt/>
       </td>
       <td style="text-align:left">
@@ -240,7 +240,7 @@
         <p><b>Battery</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image18.jpg"
+          <img src="/media/image18.jpg"
           alt/>
         </p>
         <p><em>Fused battery leads</em>
@@ -268,7 +268,7 @@
         <p><b>Action packer</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image19.jpg"
+          <img src="/media/image19.jpg"
           alt/>
         </p>
       </td>
@@ -297,13 +297,13 @@
         <p><b>Computer</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image20.png"
+          <img src="/media/image20.png"
           alt/>
         </p>
         <p><em>BeagleBone</em>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image21.png"
+          <img src="/media/image21.png"
           alt/>
         </p>
         <p><em>Raspberry Pi</em>
@@ -330,7 +330,7 @@
         <p><b>DC-DC Voltage Converter</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image22.png"
+          <img src="/media/image22.png"
           alt/>
         </p>
       </td>
@@ -358,7 +358,7 @@
         <p><b>USB Hub</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image23.jpg"
+          <img src="/media/image23.jpg"
           alt/>
         </p>
       </td>
@@ -383,7 +383,7 @@
         <p><b>GPS</b>
         </p>
         <p>
-          <img src="https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image24.png"
+          <img src="/media/image24.png"
           alt/>
         </p>
       </td>
@@ -404,19 +404,19 @@
   </tbody>
 </table>
 
-![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image25.png)
+![](/media/image25.png)
 
 **Inside Action Packer**
 
-![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image26.png)
+![](/media/image26.png)
 
 **Inside Computer Case with Raspberry Pi \(No USB Hub needed\)**
 
-![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image27.png)
+![](/media/image27.png)
 
 **Inside Computer Case with BeagleBone \(USB Hub Present\)**
 
-![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image28.png)
+![](/media/image28.png)
 
 **USB Port Numbering for Raspberry Pi or BeagleBone computers.**
 
@@ -424,9 +424,8 @@ Note BeagleBone computers only has 1 USB port so it must use a USB Hub to expand
 
 | **Raspberry Pi** | **USB Hub \(for BeagleBone\)** |
 | :--- | :--- |
-| ![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image29.png) | ![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image30.png) |
+| ![](/media/image29.png) | ![](/media/image30.png) |
 
 **Charge Controller Wiring**
 
-![](https://github.com/leberrigan/MotusStationGuide/tree/0a99925bc5561e87ef911b34594b1ee427d231dc/media/image31.jpg)
-
+![](/media/image31.jpg)
