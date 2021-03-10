@@ -54,7 +54,7 @@ We recommend Sunsaver charge controllers with low-voltage cut-off - minimum 10L 
 
 **Motus Pro Tip** - Overkill is best. More power. Bigger batteries, bigger batteries, more protection.
 
-{% hint style="info" %}
+{% endhint %}
 
 ### Solar Power
 
@@ -71,4 +71,3 @@ The amount of power your panel needs to produce depends on the amount of sun exp
 All solar panel setups require a charge controller. This is the device that mediates the power flow between the solar panel and the battery, keeping the panel from overcharging the battery, and ensuring electricity doesn’t flow into the panel at night when the panel voltage drops. We recommend getting a charge controller that also includes undervoltage protection, or ‘low-voltage cutoff’, to further protect the battery from getting overly drained by the receiver, or ‘load’. If your charge controller does not have undervoltage protection, a separate device should be used between the battery and load. See [undervoltage protection](power.md#undervoltage-protection) for more details.
 
 The charge controller most often used by Birds Canadais the [MorningStar SunSaver SS-10L-12V](https://www.morningstarcorp.com/products/sunsaver/). This can charge a 12-volt battery with up to 10 Amps of current and includes a low-voltage cutoff. These have proven robust and longer-lasting than cheaper models, but they can still fail so it’s always important to have spares around.
-

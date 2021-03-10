@@ -19,7 +19,7 @@ This guide is intended as a way to help individuals install their own Motus stat
 * Harness and adequate training when working from heights
 * Electrocution -- overhead wires
 
-{% hint style="info" %}
+{% endhint %}
 
 ### What is a Motus Station?
 
@@ -28,4 +28,3 @@ A Motus station is an automated radio telemetry station designed to listen to sp
 ### Definitions
 
 With all the terminology being thrown around with this technology, it can be hard to keep track of what’s what. [Go to Appendix A for a terminology reference.](appendix-a.md)
-

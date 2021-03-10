@@ -141,7 +141,7 @@ A catalogue of cables and their specifications can be found on [Allied Wire & Ca
 
 **Motus Pro Tip** - The heavier guage cables can be buly to work with and awkward to connect inside the receiver. Short jumper cables with smaller guage can be used to help work in tight spaces. Insert picture and example from Maple Leaf. However, this does increase the number of connections which may result in a slight decrease in signal strength \(see connectors below\).
 
-{% hint style="info" %}
+{% endhint %}
 
 ## Radio Dongles
 
@@ -189,5 +189,4 @@ The following are some common uses of these connectors:
 
 **Motus Pro Tip** - Every connection, every adapter, may result in lowering the sensitivity of station to detect tags. Make every effort to minimize the number of connections/adapters between the antenna and the receiver.
 
-{% hint style="info" %}
-
+{% endhint %}
