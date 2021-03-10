@@ -7,7 +7,7 @@
 Several varieties of antennas exist of which only a few will be covered
 here. All antennas should come with their own assembly instructions
 which are more or less easy to follow so we will not go into great
-detail here. Please see [[antenna anatomy]{.ul}](#antenna-anatomy) for
+detail here. Please see [antenna anatomy](#antenna-anatomy) for
 more details on parts.
 
 *Note: The driven element and the attached connector are the most
@@ -89,13 +89,13 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 -   To prevent water ingress:
 
-    -   2-inch pipe elbow (90 degrees) similar to: [[NIBCO 2 in. ABS DWV
+    -   2-inch pipe elbow (90 degrees) similar to: [NIBCO 2 in. ABS DWV
         90-Degree H x H Vent
-        Elbow-C5807VHD2]{.ul}](https://www.homedepot.com/p/NIBCO-2-in-ABS-DWV-90-Degree-H-x-H-Vent-Elbow-C5807VHD2/100344401)
+        Elbow-C5807VHD2](https://www.homedepot.com/p/NIBCO-2-in-ABS-DWV-90-Degree-H-x-H-Vent-Elbow-C5807VHD2/100344401)
 
-    -   2-inch pipe bushing, similar to: [[2 in. x 1-1/2 in. ABS DWV
+    -   2-inch pipe bushing, similar to: [2 in. x 1-1/2 in. ABS DWV
         Spig. x Hub Flush
-        Bushing-C58012FHD2112]{.ul}](https://www.homedepot.com/p/2-in-x-1-1-2-in-ABS-DWV-Spig-x-Hub-Flush-Bushing-C58012FHD2112/100342353)
+        Bushing-C58012FHD2112](https://www.homedepot.com/p/2-in-x-1-1-2-in-ABS-DWV-Spig-x-Hub-Flush-Bushing-C58012FHD2112/100342353)
 
     -   Electrical tape or ABS cement
 
@@ -122,8 +122,8 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 -   Drill
 
--   [[2" hole
-    saw]{.ul}](https://www.homedepot.com/p/Milwaukee-2-in-Hole-Dozer-Bi-Metal-Hole-Saw-with-3-8-in-Arbor-Pilot-Bit-49-56-9667/202327737)
+-   [2" hole
+    saw](https://www.homedepot.com/p/Milwaukee-2-in-Hole-Dozer-Bi-Metal-Hole-Saw-with-3-8-in-Arbor-Pilot-Bit-49-56-9667/202327737)
 
 -   Drill bits for screws
 
@@ -175,16 +175,16 @@ flooding. It will also reduce potential damage from rodents and insects.
 
 #### Supplies
 
--   [[Solar Panel]{.ul}](#solar-power)
+-   [Solar Panel](#solar-power)
 
--   [[Battery]{.ul}](#battery)
+-   [Battery](#battery)
 
--   [[Charge Controller]{.ul}](#charge-controller)
+-   [Charge Controller](#charge-controller)
 
--   [[14 AWG Spade
-    connectors]{.ul}](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650)
-    and [[stripper/crimping
-    tool]{.ul}](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
+-   [14 AWG Spade
+    connectors](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650)
+    and [stripper/crimping
+    tool](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
 
 -   [https://www.kleintools.com/catalog/combination-cutting-tools/katapult-wire-stripper-and-cutter-solid-and-stranded-wire]{.ul}
 
@@ -252,14 +252,14 @@ to mount a solar panel if necessary.
 
     -   Anchors
 
-        -   Can use \#6 rebar in 5-foot sections or [[ground
-            anchors]{.ul}](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240).
+        -   Can use \#6 rebar in 5-foot sections or [ground
+            anchors](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240).
 
--   [[Antennas]{.ul}](#antennas-cables-and-dongles)
+-   [Antennas](#antennas-cables-and-dongles)
 
--   [[Coaxial Cable]{.ul}](#coax-cables)
+-   [Coaxial Cable](#coax-cables)
 
--   [[Automated Receiver]{.ul}](#automated-telemetry-receivers)
+-   [Automated Receiver](#automated-telemetry-receivers)
 
 #### Tools
 
@@ -339,7 +339,7 @@ to mount a solar panel if necessary.
             excess guy wire.
 
     -   Turnbuckle:
-        [[https://www.youtube.com/watch?v=zz_nS79_JDg&t=386s]{.ul}](https://www.youtube.com/watch?v=zz_nS79_JDg&t=386s)
+        [https://www.youtube.com/watch?v=zz_nS79_JDg&t=386s](https://www.youtube.com/watch?v=zz_nS79_JDg&t=386s)
 
         i.  Before all guy wires are taught, loosen the turnbuckle until
             only 2 full turns remain.
@@ -351,8 +351,8 @@ to mount a solar panel if necessary.
              sides have equal tension.
 
         iv. Use stainless steel wire to immobilize the turnbuckle using
-            the [[double-wrap
-            method.]{.ul}](https://www.youtube.com/watch?v=zz_nS79_JDg&t=385s)
+            the [double-wrap
+            method.](https://www.youtube.com/watch?v=zz_nS79_JDg&t=385s)
 
 12. Confirm tower is being held securely in place by guy wires.
 

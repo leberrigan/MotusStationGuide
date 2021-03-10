@@ -2,10 +2,10 @@
 # Testing Receiver Antenna Ranges Using a Tag
 
 *Please send any comments or additions to
-[[motus\@birdscanada.org]{.ul}](mailto:motus@birdscanada.org)*
+[motus\@birdscanada.org](mailto:motus@birdscanada.org)*
 
-Estimated antenna detection ranges ("[[radiation
-patterns]{.ul}](https://en.wikipedia.org/wiki/Radiation_pattern)") are
+Estimated antenna detection ranges ("[radiation
+patterns](https://en.wikipedia.org/wiki/Radiation_pattern)") are
 purely theoretical and based on ideal conditions so they do not actually
 reflect the true ranges or shapes of any real antenna (Taylor et al
 2017; Crewe et al. 2019). The actual range of an antenna is not easy to
@@ -28,9 +28,9 @@ the information found in trials may not be representative of actual
 antenna performance. It is also important to understand the physical
 limitations of antennas if they are surrounded by trees, or if there is
 a building or hill in the line of sight that may not always be apparent.
-Free tools such as [[Google
-Earth]{.ul}](https://support.google.com/earth/answer/3064261?hl=en) and
-[[HeyWhat'sThat]{.ul}](https://www.heywhatsthat.com/) can be used to
+Free tools such as [Google
+Earth](https://support.google.com/earth/answer/3064261?hl=en) and
+[HeyWhat'sThat](https://www.heywhatsthat.com/) can be used to
 find the 'viewshed', or line-of-site, of any given point and altitude.
 
 Before you get started you should know that it is extremely difficult to
@@ -106,11 +106,11 @@ signal transmission.*
     it!
 
 -   It is also extremely difficult to know the position of the dummy
-    within the [[radiation
-    pattern]{.ul}](https://en.wikipedia.org/wiki/Radiation_pattern) of
-    the antenna in order to judge peak performance. [[See description of
+    within the [radiation
+    pattern](https://en.wikipedia.org/wiki/Radiation_pattern) of
+    the antenna in order to judge peak performance. [See description of
     different antenna types and radiation patterns
-    here.]{.ul}](https://motus.org/antennas/#antennas)
+    here.](https://motus.org/antennas/#antennas)
 
 ![](media\image9.png){width="5.45in" height="2.55in"}
 
@@ -120,8 +120,8 @@ signal transmission.*
     latitude/longitude for the entire test.
 
 -   Download your receiver data through R following instructions found
-    in the [[Motus R Book: Chapter
-    3]{.ul}](https://motus.org/MotusRBook/accessingData.html).
+    in the [Motus R Book: Chapter
+    3](https://motus.org/MotusRBook/accessingData.html).
 
     -   When using the 'tagme' function, make sure you enter the serial
         number of the receiver you're testing as the 'projRecv'
@@ -144,28 +144,28 @@ at least 0.3 seconds between bursts.
 
 ## References
 
-[[Taylor, Philip, et al. \"The Motus Wildlife Tracking System: a
+[Taylor, Philip, et al. \"The Motus Wildlife Tracking System: a
 collaborative research network to enhance the understanding of wildlife
 movement.\" Avian Conservation and Ecology 12.1
-(2017).]{.ul}](https://www.researchgate.net/publication/315716947_The_Motus_Wildlife_Tracking_System_a_collaborative_research_network_to_enhance_the_understanding_of_wildlife_movement)
+(2017).](https://www.researchgate.net/publication/315716947_The_Motus_Wildlife_Tracking_System_a_collaborative_research_network_to_enhance_the_understanding_of_wildlife_movement)
 
-[[Crewe, Tara L., et al. \"Detection range of songbirds using a stopover
+[Crewe, Tara L., et al. \"Detection range of songbirds using a stopover
 site by automated radio‐telemetry.\" Journal of Field Ornithology 90.2
 (2019):
-176-189.]{.ul}](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofo.12291)
+176-189.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofo.12291)
 
-[[Desrochers, André, et al. \"Estimating wildlife tag location errors
+[Desrochers, André, et al. \"Estimating wildlife tag location errors
 from a vhf receiver mounted on a drone.\" Drones 2.4 (2018):
-44.]{.ul}](https://www.mdpi.com/2504-446X/2/4/44/pdf)
+44.](https://www.mdpi.com/2504-446X/2/4/44/pdf)
 
-[[Tremblay, Junior A., et al. \"A low-cost technique for radio-tracking
+[Tremblay, Junior A., et al. \"A low-cost technique for radio-tracking
 wildlife using a small standard unmanned aerial vehicle.\" Journal of
 Unmanned Vehicle Systems 5.3 (2017):
-102-108.]{.ul}](https://www.nrcresearchpress.com/doi/pdf/10.1139/juvs-2016-0021)
+102-108.](https://www.nrcresearchpress.com/doi/pdf/10.1139/juvs-2016-0021)
 
-[[Moore, Jesse. \"TRACKING MIGRATORY BIRDS: APPLYING A PASSIVE TRACKING
+[Moore, Jesse. \"TRACKING MIGRATORY BIRDS: APPLYING A PASSIVE TRACKING
 TECHNIQUE USING DIRECTION OF ARRIVAL FROM VHF RADIO TAGS.\"
-(2020).]{.ul}](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=2837&context=theses)
+(2020).](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=2837&context=theses)
 
 # General tips
 

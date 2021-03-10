@@ -41,5 +41,5 @@ Motus station is no small task, but the rewards are great.
 ## Definitions
 
 With all the terminology being thrown around with this technology, it
-can be hard to keep track of what's what. [[Go to Appendix A for a
-terminology reference.]{.ul}](#_otprdi34k95o)
+can be hard to keep track of what's what. [Go to Appendix A for a
+terminology reference.](#_otprdi34k95o)

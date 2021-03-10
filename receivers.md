@@ -16,10 +16,10 @@ purchased, or built yourself in some cases: Lotek Wireles Inc (SRX600,
 open-source SensorGnome.
 
 Sensorgnomes can be purchased from
-[[Compudata]{.ul}](https://compudata.ca/sensorgnome/) or [[RFS
-Scientific]{.ul}](https://www.rfsscientific.com/) or built with the
-[[following
-instructions]{.ul}](https://archived.sensorgnome.org/How_do_I_build_a_SensorGnome/).
+[Compudata](https://compudata.ca/sensorgnome/) or [RFS
+Scientific](https://www.rfsscientific.com/) or built with the
+[following
+instructions](https://archived.sensorgnome.org/How_do_I_build_a_SensorGnome/).
 Note these instructions are very outdated and require revision. New
 instructions will be posted in the near future.
 
@@ -48,7 +48,7 @@ instructions will be posted in the near future.
 | **Base Price** | \$625 USD^3^   | \$589 USD      | \[Contact      |
 |                |                | board only^1^  | Lotek\]        |
 +----------------+----------------+----------------+----------------+
-| *              | DC power       | [[Price        | \[Contact      |
+| *              | DC power       | [Price        | \[Contact      |
 | *Accessories** | converter (for | list]{.u       | Lotek\]        |
 |                | solar          | l}](https://ce |                |
 |                | i              | lltracktech.co |                |
@@ -135,7 +135,7 @@ more details.
 ^3^ Cost for self-built SensorGnomes is estimated to be \~\$150 USD
 without dongles, but prices may vary. Instructions on building
 SensorGnomes can be found
-[[here]{.ul}](https://archived.sensorgnome.org/How_do_I_build_a_SensorGnome/),
+[here](https://archived.sensorgnome.org/How_do_I_build_a_SensorGnome/),
 but note these are very outdated and require revision. New instructions
 will be posted in the near future. We do not recomend collaborators
 build their own SensorGnome without prior experience.

@@ -19,8 +19,8 @@ thieves.
 If using mains AC power from a typical wall outlet, ensure you use a
 good quality power adaptor that is rated for the mains power of that
 region (e.g.: North America is 120 Vrms @ 60 Hz; South America is
-[[highly
-variable]{.ul}](https://www.tripsavvy.com/south-america-outlets-and-adapters-1637155),
+[highly
+variable](https://www.tripsavvy.com/south-america-outlets-and-adapters-1637155),
 115-230 Vrms @ 50 or 60 Hz). A good quality adaptor can tolerate this
 variation in mains voltage which makes them more versatile for projects
 across multiple countries. A poor quality adaptor will produce an
@@ -56,7 +56,7 @@ depending on the model.
 -   CTT SensorStations have built-in voltage converters, allowing them
     to accept a direct connection to the battery; however, in practice
     NEVER connect your receiver directly to the battery without a
-    [[low-voltage cutoff]{.ul}](#undervoltage-protection) to protect
+    [low-voltage cutoff](#undervoltage-protection) to protect
     your battery.
 
 -   SensorGnomes, require a DC buck converter to lower the voltage down
@@ -125,8 +125,8 @@ measuring the current of a connected receiver using a voltmeter. Put
 simply, a SensorGnome which consumes 0.5 A of power at \~12 volts can
 theoretically run off a 50 Ah battery for 100 hours (50 Ah / 0.5 A = 100
 h). Keep in mind that you won't ever use the full capacity of a battery
-since it should not be discharged below 10.5 volts (see [[Undervoltage
-Protection]{.ul}](#undervoltage-protection)). In addition, the capacity
+since it should not be discharged below 10.5 volts (see [Undervoltage
+Protection](#undervoltage-protection)). In addition, the capacity
 will slowly decrease over time with each discharge of the battery, so
 ensure you add an extra 10-15% of capacity to account for this drop over
 time. Batteries vary in performance at different temperatures as well
@@ -143,7 +143,7 @@ When using any type of battery to power a station, it is recommended to
 battery. While your station may function without one, it greatly reduces
 battery life and will eventually result in the battery not holding any
 charge. If using a solar panel to charge the battery, you will require a
-[[charge controller with low voltage cutoff]{.ul}](#charge-controller).
+[charge controller with low voltage cutoff](#charge-controller).
 Without a charge controller, you will need to buy a low voltage cutoff,
 also known as an undervoltage protection module.
 
@@ -191,12 +191,12 @@ drops. We recommend getting a charge controller that also includes
 undervoltage protection, or 'low-voltage cutoff', to further protect the
 battery from getting overly drained by the receiver, or 'load'. If your
 charge controller does not have undervoltage protection, a separate
-device should be used between the battery and load. See [[undervoltage
-protection]{.ul}](#undervoltage-protection) for more details.
+device should be used between the battery and load. See [undervoltage
+protection](#undervoltage-protection) for more details.
 
 The charge controller most often used by Birds Canadais the
-[[MorningStar SunSaver
-SS-10L-12V]{.ul}](https://www.morningstarcorp.com/products/sunsaver/).
+[MorningStar SunSaver
+SS-10L-12V](https://www.morningstarcorp.com/products/sunsaver/).
 This can charge a 12-volt battery with up to 10 Amps of current and
 includes a low-voltage cutoff. These have proven robust and
 longer-lasting than cheaper models, but they can still fail so it's

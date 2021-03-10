@@ -9,7 +9,7 @@
   **CTT^TM^**                      Cellular Tracking Technologies^TM^
   **Antenna mount**                The part which connects the antenna to the mounting structure. Typically a metal plate with U-bolts.
   **Antenna mounting structure**   Usually a mast, but can be anything imaginable, such as a guard rail, a tree, or a wall.
-  **Mast**                         A structure used to mount antennas. Typically a metal pipe and often telescopic (pop-up), such as the [[20A and 50A]{.ul}](http://wadeantenna.com/wp-content/uploads/2019/07/SPEC0047_C01_POP-UP-MAST_MCN0115.pdf) masts.
+  **Mast**                         A structure used to mount antennas. Typically a metal pipe and often telescopic (pop-up), such as the [20A and 50A](http://wadeantenna.com/wp-content/uploads/2019/07/SPEC0047_C01_POP-UP-MAST_MCN0115.pdf) masts.
   **Tripod**                       A three-legged structure used to support a mast. Usually 10-feet (3 m) tall (TRM-10L).
   **Angle iron**                   Can be steel or aluminum. Angled piece of metal typically used to affix solar panels to tripods.
   **Mast collar**                  A ring around the mast typically used to affix guy lines.

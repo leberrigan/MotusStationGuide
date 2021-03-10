@@ -29,21 +29,8 @@ Portage Islands in Nova Scotia very small grids have been used to study
 local movements.
 
 +----------------------+----------------------+----------------------+
-| [![](media\image2.p  | [![](media\image3.p  | [![](media\image4.p  |
-| ng){width="1.5625in" | ng){width="1.5625in" | ng){width="1.5625in" |
-| height="1.5          | height=              | height="1.5625i      |
-| 625in"}](https://mot | "1.5625in"}[Receiver | n"}](https://motus.o |
-| us.org/wp-content/up | Grid\                | rg/wp-content/upload |
-| loads/2020/02/receiv | (Ontario             | s/2020/02/receiver_l |
-| er_fence_Panama.png) | )]{.ul}](https://mot | ocal_BonPortage.png) |
-|                      | us.org/wp-content/up |                      |
-| [[Receiver Fence\    | loads/2020/02/receiv | [[Local Array\       |
-| (Panama              | er_grid_Ontario.png) | (Bon Portage         |
-| Canal                |                      | Island)]{.           |
-| )]{.ul}](https://mot |                      | ul}](https://motus.o |
-| us.org/wp-content/up |                      | rg/wp-content/upload |
-| loads/2020/02/receiv |                      | s/2020/02/receiver_l |
-| er_fence_Panama.png) |                      | ocal_BonPortage.png) |
+| [![](media\image2.png){width="1.5625in" height="1.5625in"}](https://motus.org/wp-content/uploads/2020/02/receiver_fence_Panama.png) | [![](media\image3.png){width="1.5625in" height="1.5625in"}(https://motus.org/wp-content/uploads/2020/02/receiver_grid_Ontario.png) | [![](media\image4.png){width="1.5625in" height="1.5625in"}](https://motus.org/wp-content/uploads/2020/02/receiver_local_BonPortage.png) |
+| [Receiver Fence\(Panama Canal)](https://motus.org/wp-content/uploads/2020/02/receiver_fence_Panama.png) | [Receiver Grid\(Ontario)](https://motus.org/wp-content/uploads/2020/02/receiver_grid_Ontario.png) | [Local Array\(Bon Portage Island)](https://motus.org/wp-content/uploads/2020/02/receiver_local_BonPortage.png) |
 +----------------------+----------------------+----------------------+
 
 When selecting a site, it's important to consider how the landscape
@@ -69,8 +56,8 @@ or other antennas, or sources of electromagnetic noise (even air
 conditioners, generators, lawn mowers). Depending on frequency and
 location, radio interference from third-party broadcasters and cellular
 can also be problematic. Some online tools exist to locate licensed
-radio broadcasters by location ([[click here for Canadian
-stations]{.ul}](https://tafl.jonathanmorgan.net/)).
+radio broadcasters by location ([click here for Canadian
+stations](https://tafl.jonathanmorgan.net/)).
 
 One can conduct tests at a site prior to station setup - insert
 [instructions on doing so.]{.ul}
@@ -98,14 +85,14 @@ wavelength apart.
 
 Motus stations have been built on just about anything -- lighthouses,
 towers, trees, cars, drones, planes, ships, buoys, bamboo masts, and
-just about every type of building you can dream of. [[Click here for a
+just about every type of building you can dream of. [Click here for a
 list of example
-stations]{.ul}](https://motus.org/selection-guide/station-examples).
+stations](https://motus.org/selection-guide/station-examples).
 
 The actual structure doesn't necessarily matter as long as it's strong
 and elevated enough to provide a clear line-of-sight, and the antennas
-are not mounted close to sheet metal or other antennas (see [[Antenna
-Interference]{.ul}](#antenna-interference) above). The easiest and often
+are not mounted close to sheet metal or other antennas (see [Antenna
+Interference](#antenna-interference) above). The easiest and often
 the cheapest method is o use a pre-existing building or structure upon
 which masts or antenna can be affixed to existing railings, or on the
 side of buildings where a DMX-style structure(link) can be mounted.
@@ -113,8 +100,8 @@ Installation can be tricky, and every situation is different, but once
 it's set up there shouldn't be much maintenance or worry.
 
 In remote locations where there aren't any buildings to attach towers,
-one can use a tripod and mast like those manufactured by [[Wade
-Antenna]{.ul}](http://wadeantenna.com/), or other guyed or un-guyed
+one can use a tripod and mast like those manufactured by [Wade
+Antenna](http://wadeantenna.com/), or other guyed or un-guyed
 self-standing tower design (link or picture). Pop-up towers must be
 guyed (3 lines per 10-foot section) and anchored (1 anchor per guy or
 just 3 strong anchors). These structures are more sensitive to wind and
@@ -129,11 +116,11 @@ marine environments). It will cost you more in the end per setup, but
 shortcuts will often cost you more in the long-term.
 
 The following list includes equipment commonly used across North
-America. For equipment used in other regions, please [[contact
-us]{.ul}](mailto:motus@birdscanada.org).
+America. For equipment used in other regions, please [contact
+us](mailto:motus@birdscanada.org).
 
--   Against wall of a building: [[DMX tower
-    (36′)]{.ul}](http://wadeantenna.com/product/36-foot-dmx-bracketed-tower/)
+-   Against wall of a building: [DMX tower
+    (36′)](http://wadeantenna.com/product/36-foot-dmx-bracketed-tower/)
 
 -   Pre-existing Structures
 
@@ -148,21 +135,21 @@ us]{.ul}](mailto:motus@birdscanada.org).
 -   Non-penetrating roof mount:
 
     -   Stand:
-        [[NPRM-2]{.ul}](http://wadeantenna.com/product/heavy-duty-non-penetrating-roof-mount/)
+        [NPRM-2](http://wadeantenna.com/product/heavy-duty-non-penetrating-roof-mount/)
 
-    -   [[Masting]{.ul}](http://wadeantenna.com/product/masting/)
+    -   [Masting](http://wadeantenna.com/product/masting/)
 
 -   Free-standing:
 
     -   Tripod:
-        [[TRM-10L]{.ul}](http://wadeantenna.com/product/10-foot-tripod/)
+        [TRM-10L](http://wadeantenna.com/product/10-foot-tripod/)
 
     -   Telescopic Mast (40-foot):
-        [[40A]{.ul}](http://wadeantenna.com/product/1499/)
+        [40A](http://wadeantenna.com/product/1499/)
 
     -   Also requires: guy lines and anchors when mounting multiple
         antennas
 
 With all these mounting methods in mind, we recommend you contact your
-local supplier for [[Wade Antenna]{.ul}](http://wadeantenna.com/) to
+local supplier for [Wade Antenna](http://wadeantenna.com/) to
 find the best solution for your location.

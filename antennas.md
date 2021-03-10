@@ -44,9 +44,9 @@ height="2.4739588801399823in"}![](media\image7.gif){width="3.3281255468066493in"
 height="2.587444225721785in"}
 
 A torus, representing the radiation pattern of an omnidirectional
-antenna (left; [[CC BY-SA
-3.0]{.ul}](https://creativecommons.org/licenses/by-sa/3.0), source:
-[[Wikipedia]{.ul}](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)).
+antenna (left; [CC BY-SA
+3.0](https://creativecommons.org/licenses/by-sa/3.0), source:
+[Wikipedia](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)).
 Cross-sectional view of a half-wave omni-directional antenna (right;
 public domain, source: Wikipedia).
 
@@ -81,8 +81,8 @@ towards each other to capture animals passing in between. Mid-sized Yagi
 antennas provide a compromise between distance and "field of view", or
 width of the detection beam. Small Yagi antennas are typically used for
 manual tracking, or for monitoring animals within a small study area.
-[[CTT
-Nodes]{.ul}](https://celltracktech.com/products/tag-system/ctt-node/)
+[CTT
+Nodes](https://celltracktech.com/products/tag-system/ctt-node/)
 have small omni antennas with a line-of-sight (LOS) range of around 1.4
 km which if distributed in a grid can provide highly accurate location
 estimates. See array design above.
@@ -104,13 +104,13 @@ When ordering antennas and cables, it is important to ensure:
 
 Select an item from the list below to learn more:
 
--   [[Antennas]{.ul}](https://motus.org/antennas/#antennas)
+-   [Antennas](https://motus.org/antennas/#antennas)
 
--   [[Coaxial Cables]{.ul}](https://motus.org/antennas/#cables)
+-   [Coaxial Cables](https://motus.org/antennas/#cables)
 
--   [[Radio Dongles]{.ul}](https://motus.org/antennas/#dongles)
+-   [Radio Dongles](https://motus.org/antennas/#dongles)
 
--   [[Connectors]{.ul}](https://motus.org/antennas/#connectors)
+-   [Connectors](https://motus.org/antennas/#connectors)
 
 ## Antenna Anatomy
 
@@ -142,7 +142,7 @@ must be tuned to 434 MHz.
 
 Antennas can be purchased from the following suppliers:
 
--   [[Laird](https://www.arcantenna.com/plc1669-laird-yagi-heavy-duty-9-element-antenna-for-166-174-mhz-with-uhf-female-connector-track-migratory-birds.html)-
+-   [Laird](https://www.arcantenna.com/plc1669-laird-yagi-heavy-duty-9-element-antenna-for-166-174-mhz-with-uhf-female-connector-track-migratory-birds.html)-
     through Hutton in Canada Economy 2-way in US]{.ul}
 
 -   [Wade Antenna\
@@ -150,7 +150,7 @@ Antennas can be purchased from the following suppliers:
 
 -   
 
--   [[Digikey]{.ul}](http://www.mapleleafcom.com/)
+-   [Digikey](http://www.mapleleafcom.com/)
 
 -   
 
@@ -215,13 +215,13 @@ Use the table below to help select your antenna:
 | 400-P.aspx) |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 
-A helpful guide on coaxial cables can be found on the [[Wilson
+A helpful guide on coaxial cables can be found on the [Wilson
 Amplifiers
-website]{.ul}](https://www.wilsonamplifiers.com/blog/understanding-coaxial-cables-the-complete-guide/)
+website](https://www.wilsonamplifiers.com/blog/understanding-coaxial-cables-the-complete-guide/)
 
-A catalogue of cables and their specifications can be found on [[Allied
+A catalogue of cables and their specifications can be found on [Allied
 Wire &
-Cable]{.ul}](https://www.awcwire.com/producttoc.aspx?id=coaxial-cable).
+Cable](https://www.awcwire.com/producttoc.aspx?id=coaxial-cable).
 
 -   **RG58** -- basic communications cable that typically comes with a
     BNC connector. Best used for lengths less than 50′. The least
