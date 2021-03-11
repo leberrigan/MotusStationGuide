@@ -55,7 +55,9 @@ When using any type of battery to power a station, it is recommended to _**alway
 We recommend Sunsaver charge controllers with low-voltage cut-off - minimum 10L \(depends on size of solar panel\), Specifically XXX, and any solar panel \(minimum 90 watt\).
 
 {% hint style="info" %}
-**Motus Pro Tip** - Overkill is best. More power. Bigger batteries, bigger batteries, more protection.
+**Motus Pro Tip** 
+
+Get more than you think is needed. Bigger panels = more power. Bigger batteries = longer-lasting power.
 {% endhint %}
 
 ### Solar Power

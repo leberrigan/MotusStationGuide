@@ -119,7 +119,7 @@ _**\(1\)** Price does not include cost of: Wi-Fi module; cellular module; data p
 
 _**\(2\)** CTT charges $5/month base plus data costs for cellular data plans and an additional $5/month for station health reports. Contact CTT for more details._
 
-_**\(3\)** Cost for self-built SensorGnomes is estimated to be ~$150 USD without dongles, but prices may vary. Instructions on building SensorGnomes can be found_ [_here_](https://archived.sensorgnome.org/How_do_I_build_a_SensorGnome/)_, but note these are very outdated and require revision. New instructions will be posted in the near future. We do not recomend collaborators build their own SensorGnome without prior experience._
+_**\(3\)** Cost for self-built SensorGnomes is estimated to be ~$150 USD without dongles, but prices may vary. Instructions on building SensorGnomes can be found_ [_here_](https://archived.sensorgnome.org/How_do_I_build_a_SensorGnome/) _and_ [_here_](https://sensorgnome.readthedocs.io/en/latest/raspberry_pi_sensorgnome.html)_, but note these are outdated and require revision. New instructions will be posted in the near future. **We do not recomend collaborators build their own SensorGnome without prior experience**._
 
 ## Manual Telemetry Receivers
 

@@ -36,7 +36,7 @@
 |  |  |  |  |
 |  |  |  |  |
 
-## **Parts description and what to look for**
+**Parts description and what to look for \(see diagrams on last three pages\)**
 
 <table>
   <thead>
@@ -391,31 +391,27 @@
 
 ![](.gitbook/assets/image25.png)
 
-### **Inside Action Packer**
+**Inside Action Packer**
 
 ![](.gitbook/assets/image26.png)
 
-### **Inside Computer Case with Raspberry Pi \(No USB Hub needed\)**
+**Inside Computer Case with Raspberry Pi \(No USB Hub needed\)**
 
 ![](.gitbook/assets/image27.png)
 
-### **Inside Computer Case with BeagleBone \(USB Hub Present\)**
+**Inside Computer Case with BeagleBone \(USB Hub Present\)**
 
 ![](.gitbook/assets/image28.png)
 
-### **USB Port Numbering for Raspberry Pi or BeagleBone computers.**
+**USB Port Numbering for Raspberry Pi or BeagleBone computers.**
 
-{% hint style="info" %}
-**Note** 
-
-BeagleBone computers only have 1 USB port so it must use a USB Hub to expand the number of available ports. Raspberry Pi computers have 4 ports so they _do not_ require a USB hub.
-{% endhint %}
+Note BeagleBone computers only has 1 USB port so it must use a USB Hub to expand the number of available ports. Raspberry Pi computers have 4 ports so they _do not_ require a USB hub.
 
 | **Raspberry Pi** | **USB Hub \(for BeagleBone\)** |
 | :--- | :--- |
 | ![](.gitbook/assets/image29.png) | ![](.gitbook/assets/image30.png) |
 
-### **Charge Controller Wiring**
+**Charge Controller Wiring**
 
 ![](.gitbook/assets/image31.jpg)
 
