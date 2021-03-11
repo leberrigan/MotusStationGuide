@@ -47,7 +47,7 @@ To simulate an animal on or close to the ground, affix the dummy animal to a sti
 
 #### Flight Simulation
 
-To simulate an animal in the air, affix the dummy animal to a helium balloon. _Note: balloons made from metalized mylar might influence signal transmission._
+To simulate an animal in the air, affix the dummy animal to a helium balloon. _Note: balloons made from metalized mylar might impede signal transmission._
 
 ### Conducting the test
 

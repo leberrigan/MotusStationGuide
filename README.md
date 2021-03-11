@@ -1,6 +1,6 @@
 ---
 description: >-
-  This guide has been created to help collaborators decide on where and how to
+  This guide has been created to help collaborators decide on how and where to
   install Motus stations.
 ---
 
