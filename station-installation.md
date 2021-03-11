@@ -111,6 +111,8 @@ Include recommendations to mount receivers on the mast or outside of a box on th
 
 #### Instructions
 
+See [solar charge controller wiring](appendix-c.md#charge-controller-wiring) for a diagram.
+
 1. Prepare your cables by crimping **14 AWG spade connectors** to the ends of all your cables.
    * For the battery, prepare one ****fused battery lead __and one length of the 14 AWG stranded automotive/speaker wire.
 2. Carefully inspect the charge controllers and note the positive and negative terminals for: the Solar Panel \(input\); the battery; the load \(output\).
@@ -168,8 +170,9 @@ A pop-tower is a type of standalone station that uses a tripod + telescopic mast
   * ½” socket
 * Ratchet with ½” drive
 * Drill
-  * Metal bits
-  * Phillips/Robinson’s for screws
+  * Cobalt drill bits \(or equivalent\) for metal drilling. 
+    * 3/16" and 1/4"
+  * Phillips/Robinson’s screwdrivers for screws
 
 {% page-ref page="appendix-c.md" %}
 
