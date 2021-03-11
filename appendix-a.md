@@ -1,12 +1,18 @@
+---
+description: 'See Appendix C for parts lists, pictures, and descriptions'
+---
+
 # Appendix A: Definitions
 
-|  |  |
+| Term | Definition |
 | :--- | :--- |
 | **Collaborators** | Any person who uses Motus for research, education, or otherwise |
 | **Receiver** | A computer designed to receive radio signals |
 | **Receiver deployment** | Describes a single setup of a receiver station. This includes information such as: number, types, directions, and heights of antennas; location of station, receiver listening frequency, computer serial numbers, type of antenna mounting structure. Deployments are registered on Motus.org. |
+| **Station** | Encompasses all receiver deployments at a single location. |
 | **Coax** | Coaxial cable, typically used to connect antennas to receivers. |
-| **CTTTM** | Cellular Tracking TechnologiesTM |
+| **CTT** | Cellular Tracking Technologies \(i.e.; one of the companies that makes tags and receivers\). |
+| **Lotek** | One of the companies that makes tags and receivers. |
 | **Antenna mount** | The part which connects the antenna to the mounting structure. Typically a metal plate with U-bolts. |
 | **Antenna mounting structure** | Usually a mast, but can be anything imaginable, such as a guard rail, a tree, or a wall. |
 | **Mast** | A structure used to mount antennas. Typically a metal pipe and often telescopic \(pop-up\), such as the [20A and 50A](http://wadeantenna.com/wp-content/uploads/2019/07/SPEC0047_C01_POP-UP-MAST_MCN0115.pdf) masts. |
@@ -16,8 +22,9 @@
 | **DMX** | A triangular tower structure used for more permanent installations. Usually requires a concrete footing or a building for support. |
 | **Non-penetrating Roof Mount** | A type of mast mount which does not require anchoring. Typically used on flat roofs. See non-penetrating roof mounts. |
 | **SensorGnome** | Open source receiver developed at the Phil Taylor Lab, Acadia University. |
-| **CTT SensorStationTM** | Receiver made by Cellular Tracking Technologies |
+| **CTT SensorStation** | Receiver made by Cellular Tracking Technologies |
 | **Lotek SRX** | SRX-series receiver made by Lotek Wireless Ltd. |
-| **Tag** | A radio transmitter made by Lotek or Cellular Tracking TechnologiesTM. |
+| **Tag** | A radio transmitter made by **Lotek** or **Cellular Tracking Technologies**. |
+| **Tag deployment** | The time period of when a tag was activated and in the field. |
 | **Motus Network** | A collaborative network of receivers, transmitters, partners, and researchers which use radio telemetry to study animal movement. |
 
