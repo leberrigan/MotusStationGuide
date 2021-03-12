@@ -59,7 +59,7 @@
         <p><b>Mast</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image12.jpg" alt/>
+          <img src=".gitbook/assets/image12 (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -80,7 +80,7 @@
         <p><b>Guy wires and spools</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image13.jpg" alt/>
+          <img src=".gitbook/assets/image13 (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -103,7 +103,7 @@
         <p><b>Coaxial cable</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image14.gif" alt/>
+          <img src=".gitbook/assets/image14 (1).gif" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -125,7 +125,7 @@
         </p>
         <p>
           <img src=".gitbook/assets/image15.jpg" alt/>
-          <img src=".gitbook/assets/image16.jpg" alt/>
+          <img src=".gitbook/assets/image16 (1).jpg" alt/>
         </p>
         <p><em>Mast Collar Quick Link</em>
         </p>
@@ -223,7 +223,7 @@
         <p><b>Action packer</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image19.jpg" alt/>
+          <img src=".gitbook/assets/image19 (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -251,12 +251,12 @@
         <p><b>Computer</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image20.png" alt/>
+          <img src=".gitbook/assets/image20 (1).png" alt/>
         </p>
         <p><em>BeagleBone</em>
         </p>
         <p>
-          <img src=".gitbook/assets/image21.png" alt/>
+          <img src=".gitbook/assets/image21 (1).png" alt/>
         </p>
         <p><em>Raspberry Pi</em>
         </p>
@@ -309,7 +309,7 @@
         <p><b>USB Hub</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image23.jpg" alt/>
+          <img src=".gitbook/assets/image23 (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -333,7 +333,7 @@
         <p><b>GPS</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image24.png" alt/>
+          <img src=".gitbook/assets/image24 (1).png" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -361,11 +361,11 @@
 
 **Inside Computer Case with Raspberry Pi \(No USB Hub needed\)**
 
-![](.gitbook/assets/image27.png)
+![](.gitbook/assets/image27%20%281%29.png)
 
 **Inside Computer Case with BeagleBone \(USB Hub Present\)**
 
-![](.gitbook/assets/image28.png)
+![](.gitbook/assets/image28%20%281%29.png)
 
 **USB Port Numbering for Raspberry Pi or BeagleBone computers.**
 

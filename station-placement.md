@@ -20,21 +20,29 @@ CTT Nodes work in a similar fashion to other Motus stations, but at a much small
 
 Antennas can receive interference if placed too close to metal objects or other antennas, or sources of electromagnetic noise \(even air conditioners, generators, lawn mowers\). Depending on frequency and location, radio interference from third-party broadcasters and cellular can also be problematic. Some online tools exist to locate licensed radio broadcasters by location \([click here for Canadian stations](https://tafl.jonathanmorgan.net/)\).
 
+### Testing for antenna interference
+
 One can conduct tests at a site prior to station setup, but none have been well tested. Below are some guidelines which may help identify noisy sites.
 
-### Measuring the noise floor
+#### Measuring the noise floor
 
 1. [Download SDR Console from their website](https://www.sdr-radio.com/download)
 2. Plug the FUNcube dongle into your computer and run the SDR Console software.
 3. Select the FUNcube dongle from the list of devices and tune it to the desired frequency.
-4. Plug in an antenna and start taking measurements in all directions at or near the height where the antennas will be when the station is installed.
+4. Plug in an antenna and take measurements in all directions at or near the height where the antennas will be when the station is installed.
+5. If you measure anything above **XX dB,** there may be a problematic noise source in that direction.
 
-   .
-
-### Measuring with a Motus receiver
+#### Measuring with a Motus receiver
 
 1. Power on your receiver and plug in an antenna.
-2. Take measurements from all direction at or near the height where the antennas will be when the station is installed.
+2. Point the antenna all direction at or near the height where the antennas will be when the station is installed, moving in a circle over a 5-minute period.
+3. Download the data you just collected from your Motus receiver.
+4. Open R and run the script provided here: **\[ LINK TO A SCRIPT \]**
+5. If you're given a probability of less than 5%, you're good to go!
+
+{% hint style="info" %}
+Use your receivers web interface to record the time you begin and end your measurements to get a more precise \(and accurate\) time.
+{% endhint %}
 
 {% hint style="success" %}
 It's best to use the exact same receiver you intend to be installing at that site.
