@@ -2,9 +2,8 @@
 
 ## Antenna mounting structure
 
-|  |  |  |  |
+| Category | Type | Part | Link |
 | :--- | :--- | :--- | :--- |
-| Category | Part | Model number | Link |
 | Pop-tower | Tripod | TRM-10L | [Wade Antenna](http://wadeantenna.com/product/10-foot-tripod/) |
 | - | Spare ¼” bolts | ¼” x 2” hex bolt | [Most hardware stores](https://www.homedepot.com/p/Prime-Line-1-4-in-20-x-2-in-Grade-304-Stainless-Steel-Hex-Bolts-50-Pack-9058462/310465140) |
 | - | Spare ¼” nuts | ¼” lock nut | [Most hardware stores](https://www.homedepot.com/p/Prime-Line-1-4-in-20-Grade-18-8-Stainless-Steel-Nylon-Insert-Lock-Nut-20-Pack-9075237/307410008) |
@@ -28,11 +27,19 @@
 | - | - | Ground anchor | [Home depot](https://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240) |
 | Non-penetrating roof mount | Non-penetrating roof mount | NPRM-series \(light- to heavy-duty\) | [Wade Antenna](http://wadeantenna.com/product/heavy-duty-non-penetrating-roof-mount/) |
 | - | Mast | Masting | [Wade Antenna](http://wadeantenna.com/product/masting/) |
-| Power supply |  | Fused battery lead | [Amazon](https://www.amazon.ca/gp/product/B07CK784LZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+|  |  |  |  |
+
+## Power Supply
+
+| Category | Type | Part | Link |
+| :--- | :--- | :--- | :--- |
+| Solar | Wiring | Fused battery lead | [Amazon](https://www.amazon.ca/gp/product/B07CK784LZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
+
+
 
