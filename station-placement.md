@@ -1,6 +1,6 @@
 # Station Placement
 
-Not all stations are created equal. Some will primarily achieve local objectives, others are part of regional networks, and others strategically placed at migration, or movement hotspots serve the collective needs of the entire network. At the end of the day, all stations collectively work together to make up the Motus network and provide data to far more projects than your own. Motus is the ultimate, hands-on, community science project.
+Not all stations are created equal. Some will primarily achieve local objectives, others are part of regional networks, and others strategically placed at migration, or movement hotspots serve the collective needs of the entire network. At the end of the day, all stations work together to make up the Motus network and provide data to far more projects than your own. Motus is the ultimate, hands-on, community science project.
 
 ## Site Selection
 
@@ -12,17 +12,35 @@ Ideally, adjacent stations will complement one another; that is, they operate on
 | :---: | :---: | :---: |
 
 
-When selecting a site, it’s important to consider how the landscape features will affect the range of your antennas. Generally, higher stations have a greater range and detection probability of passing animals, but have a more limited probability of detecting local movements. In most instances, stations should be placed in the highest elevation possible within the area of interest, ensuring there is a clear line of sight in each direction you wish to point the antennas. It’s also important to ensure there aren’t any obstructions immediately behind the antennas \(within a few meters\), especially metal surfaces like roofing.
+When selecting a site, it’s important to consider how the landscape features will affect the range of your antennas. Generally, higher stations have a greater range and detection probability of passing animals, but have a more limited probability of detecting local movements \(depending on the type of antenna that is attached\). In most instances, stations should be placed in the highest elevation possible within the area of interest, ensuring there is a clear line of sight in each direction you wish to point the antennas. It’s also important to ensure there aren’t any obstructions immediately behind the antennas \(within a few meters\), especially metal surfaces like roofing.
 
-Node Networks: - introduction to nodes, how and where to use them. As CTT nodes, or small sensorgnome/receiver networks,
-
-## It’s not magic, it’s physics. The importance of line or site, viewsheds,etc.
+CTT Nodes work in a similar fashion to other Motus stations, but at a much smaller scale. These devices are best suited for fine-scale studies. Read more about CTT Nodes here: [**CTT Nodes**](https://celltracktech.com/products/tag-system/ctt-node/)\*\*\*\*
 
 ## Antenna Interference
 
 Antennas can receive interference if placed too close to metal objects or other antennas, or sources of electromagnetic noise \(even air conditioners, generators, lawn mowers\). Depending on frequency and location, radio interference from third-party broadcasters and cellular can also be problematic. Some online tools exist to locate licensed radio broadcasters by location \([click here for Canadian stations](https://tafl.jonathanmorgan.net/)\).
 
-One can conduct tests at a site prior to station setup - insert instructions on doing so.
+One can conduct tests at a site prior to station setup, but none have been well tested. Below are some guidelines which may help identify noisy sites.
+
+### Measuring the noise floor
+
+1. [Download SDR Console from their website](https://www.sdr-radio.com/download)
+2. Plug the FUNcube dongle into your computer and run the SDR Console software.
+3. Select the FUNcube dongle from the list of devices and tune it to the desired frequency.
+4. Plug in an antenna and start taking measurements in all directions at or near the height where the antennas will be when the station is installed.
+
+   .
+
+### Measuring with a Motus receiver
+
+1. Power on your receiver and plug in an antenna.
+2. Take measurements from all direction at or near the height where the antennas will be when the station is installed.
+
+{% hint style="success" %}
+It's best to use the exact same receiver you intend to be installing at that site.
+{% endhint %}
+
+### Antenna Spacing
 
 Yagi antennas should be vertically spaced according to their direction and frequency. Make sure you have ample spacing between your antennas and any sheet metal, such as roofing. The typical figure for minimum spacing and metal roofing is 1 full wavelength. Yagi antennas that point in the opposite direction \(parallel\) will interfere with each other if spaced too close together, essentially eliminating the directionality and severely impacting the detection range. Antennas that are parallel \(180 degrees\) should be at least ½, but best at a whole wavelength apart. Antennas that are perpendicular \(90 degrees\) should be at least ¼ wavelength apart.
 
@@ -45,8 +63,10 @@ We can’t stress enough the importance of excess supports in any setup situatio
 
 The following list includes equipment commonly used across North America. For equipment used in other regions, please [contact us](mailto:motus@birdscanada.org).
 
-* Against wall of a building: [DMX tower \(36′\)](http://wadeantenna.com/product/36-foot-dmx-bracketed-tower/)
-* Pre-existing Structures
+* Against the wall of a building: [DMX tower \(36′\)](http://wadeantenna.com/product/36-foot-dmx-bracketed-tower/)
+* Pre-existing towers
+  * Cell towers
+  * Radio towers
 * Free-standing
 * Roof Mounts
 * Non-penetrating Roof Mounts

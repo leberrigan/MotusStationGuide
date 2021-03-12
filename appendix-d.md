@@ -5,7 +5,7 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Antennas</b>
+      <th style="text-align:left"><b>Antennas</b> 
         <img src=".gitbook/assets/image10.png" alt/>
       </th>
       <th style="text-align:left">
@@ -165,7 +165,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Charge controller</b>
+      <td style="text-align:left"><b>Charge controller</b> 
         <img src=".gitbook/assets/image17.png" alt/>
       </td>
       <td style="text-align:left">
@@ -378,3 +378,4 @@ Note BeagleBone computers only has 1 USB port so it must use a USB Hub to expand
 **Charge Controller Wiring**
 
 ![](.gitbook/assets/image31.jpg)
+

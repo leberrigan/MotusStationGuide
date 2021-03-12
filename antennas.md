@@ -4,7 +4,9 @@
 
 It is very important you select the right antenna for the purpose of the station and the type of tags you intend to detect. Antennas are optimized for reception on a particular radio frequency. Since there are multiple tag frequencies, each tag type requires its own antenna; currnetly an antenna optimized to detect Lotek tags on 166.380 Mhz will not detect CTT tags on 434 Mhz, and vice versa. Wherever possible we recommend installing “dual-mode” stations outfitted with antennas and a receiver that can detect tags tags. A dual-frequency antenna is under development, but for the time being, dual-mode stations \(those that can listen for more than one frequency, must have two different types of antenna in place.
 
-An antenna is a device used to send or receive radio signals, i.e., electromagnetic radiation. This radiation induces a voltage in conductive materials which will vary in magnitude based on the physical dimensions and orientation of the material. The induced voltage oscillates at the same frequency as the electromagnetic radiation and the amount of voltage induced is proportional to the strength of the radiation. Antennas used in this network are built \(“tuned”\) with high precision such that the induced voltage is most intense when exposed to a narrow range of frequencies. Antennas can also be shaped to select for radiation from specific directions and orientations.
+## How Antennas Work
+
+An antenna is a device used to send or receive radio signals, i.e., electromagnetic radiation. This radiation induces a voltage in conductive materials which will vary in magnitude based on the physical dimensions and orientation of the material. The induced voltage oscillates at the same frequency as the electromagnetic radiation and the magnitude of the voltage is proportional to the strength of the radiation. Antennas used in the Motus Network are built \(“tuned”\) with high precision such that the induced voltage is greatest when exposed to the narrow range of frequencies that Motus tags emit. Antennas can also be shaped to select for radiation from specific directions and orientations.
 
 ![](.gitbook/assets/image5.gif)
 
@@ -12,7 +14,7 @@ Each antenna has a theoretical radiation pattern which represents its range in 3
 
 ![](.gitbook/assets/image6.png)![](.gitbook/assets/image7.gif)
 
-A torus, representing the radiation pattern of an omnidirectional antenna \(left; [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)\). Cross-sectional view of a half-wave omni-directional antenna \(right; public domain, source: Wikipedia\).
+_**Left:** A torus, representing the electromagnetic radiation pattern of an omnidirectional antenna \(_[_CC BY-SA 3.0_](https://creativecommons.org/licenses/by-sa/3.0)_, source:_ [_Wikipedia_](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)_\). **Right:** Cross-sectional view of a half-wave omni-directional antenna \(public domain, source: Wikipedia\)._
 
 Yagi-Uda \(‘Yagi’\) antennas are a type of directional antenna that are the most commonly used antenna in the Motus network. Their radiation pattern is directed into a beam which varies in length and width based on the number of ‘directing elements’ with a greater number of elements resulting in a longer, narrower beam. A 9-element Yagi antenna, for instance, can theoretically provide tag detections from 15 km away at 166.380 MHz, but this will vary widely in reality, based on the landscape and atmospheric conditions. Yagi antennas are favorable for most applications since they can be used to create receiver ‘fences’ or ‘grids’ with fewer stations than an omni antennas could. In addition, multiple Yagi antennas on a single station can be used to infer flight direction based on the timing of detection across each antenna.
 
@@ -31,14 +33,14 @@ When ordering antennas and cables, it is important to ensure:
 
 Select an item from the list below to learn more:
 
-* [Antennas](https://motus.org/antennas/#antennas)
-* [Coaxial Cables](https://motus.org/antennas/#cables)
-* [Radio Dongles](https://motus.org/antennas/#dongles)
-* [Connectors](https://motus.org/antennas/#connectors)
+* [Antennas](antennas.md#antenna-types)
+* [Coaxial Cables](antennas.md#coax-cables)
+* [Radio Dongles](antennas.md#radio-dongles)
+* [Connectors](antennas.md#connectors)
 
 ## Antenna Anatomy
 
-### Yagi-uda
+### **Yagi-uda**
 
 This antenna, usually referred to as simply “Yagi” or more generally a directional antenna.
 
