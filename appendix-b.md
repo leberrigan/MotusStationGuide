@@ -1,8 +1,7 @@
 # Appendix B: Receiver power consumption table
 
-|  |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | **Setup** | **Amps** | **Volts** | **Watts** | **Daily Amp-hours @ 24 hr/d** | **Daily Watt-hours @ 24 hr/d** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | Charge Controller\(SS-10L-12v\) | 0.01 | 12.5 | 0.125 | 0.24 | 3 |
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) | 0.03 | 12.5 | 0.375 | 0.72 | 9 |
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) + BeagleBoneBlack\(May-2017\) - NO GPS | 0.135 | 12.5 | 1.6875 | 3.24 | 40.5 |
@@ -30,4 +29,3 @@
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) + RaspberryPi3Bv1.2\(Oct-2018\) + GPS-HAT + Wi-Fi OFF + FCD ProPlus \(x2\) | 0.32 | 12.5 | 4 | 7.68 | 96 |
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) + RaspberryPi3Bv1.2\(Oct-2018\) + GPS-HAT + Wi-Fi OFF + FCD ProPlus \(x3\) | 0.41 | 12.5 | 5.125 | 9.84 | 123 |
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) + RaspberryPi3Bv1.2\(Oct-2018\) + GPS-HAT + Wi-Fi OFF + FCD ProPlus \(x4\) | 0.5025 | 12.5 | 6.28125 | 12.06 | 150.75 |
-
