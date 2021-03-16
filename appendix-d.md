@@ -37,7 +37,7 @@
         <p><b>Tripod</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image11.jpg" alt/>
+          <img src=".gitbook/assets/image11 (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -59,7 +59,7 @@
         <p><b>Mast</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image12 (1).jpg" alt/>
+          <img src=".gitbook/assets/image12 (1) (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -80,7 +80,7 @@
         <p><b>Guy wires and spools</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image13 (1).jpg" alt/>
+          <img src=".gitbook/assets/image13 (1) (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -223,7 +223,7 @@
         <p><b>Action packer</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image19 (1).jpg" alt/>
+          <img src=".gitbook/assets/image19 (1) (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -282,7 +282,7 @@
         <p><b>DC-DC Voltage Converter</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image22.png" alt/>
+          <img src=".gitbook/assets/image22 (1).png" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -309,7 +309,7 @@
         <p><b>USB Hub</b>
         </p>
         <p>
-          <img src=".gitbook/assets/image23 (1).jpg" alt/>
+          <img src=".gitbook/assets/image23 (1) (1).jpg" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -357,11 +357,11 @@
 
 **Inside Action Packer**
 
-![](.gitbook/assets/image26.png)
+![](.gitbook/assets/image26%20%281%29.png)
 
 **Inside Computer Case with Raspberry Pi \(No USB Hub needed\)**
 
-![](.gitbook/assets/image27%20%281%29.png)
+![](.gitbook/assets/image27%20%281%29%20%281%29.png)
 
 **Inside Computer Case with BeagleBone \(USB Hub Present\)**
 
@@ -373,7 +373,7 @@ Note BeagleBone computers only has 1 USB port so it must use a USB Hub to expand
 
 | **Raspberry Pi** | **USB Hub \(for BeagleBone\)** |
 | :--- | :--- |
-| ![](.gitbook/assets/image29.png) | ![](.gitbook/assets/image30.png) |
+| ![](.gitbook/assets/image29.png) | ![](.gitbook/assets/image30%20%281%29.png) |
 
 **Charge Controller Wiring**
 

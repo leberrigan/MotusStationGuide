@@ -29,3 +29,4 @@
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) + RaspberryPi3Bv1.2\(Oct-2018\) + GPS-HAT + Wi-Fi OFF + FCD ProPlus \(x2\) | 0.32 | 12.5 | 4 | 7.68 | 96 |
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) + RaspberryPi3Bv1.2\(Oct-2018\) + GPS-HAT + Wi-Fi OFF + FCD ProPlus \(x3\) | 0.41 | 12.5 | 5.125 | 9.84 | 123 |
 | Charge Controller\(SS-10L-12v\) + DC Buck converter\(PYB10-Q24-S5-T \) + RaspberryPi3Bv1.2\(Oct-2018\) + GPS-HAT + Wi-Fi OFF + FCD ProPlus \(x4\) | 0.5025 | 12.5 | 6.28125 | 12.06 | 150.75 |
+
