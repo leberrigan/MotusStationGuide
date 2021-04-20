@@ -11,6 +11,6 @@
 * [General tips](general-tips.md)
 * [Appendix A: Definitions](appendix-a.md)
 * [Appendix B: Receiver power consumption table](appendix-b.md)
-* [Appendix C: Parts list](appendix-c.md)
+* [Appendix C: Parts list and suppliers](appendix-c.md)
 * [Appendix D: Parts description](appendix-d.md)
 

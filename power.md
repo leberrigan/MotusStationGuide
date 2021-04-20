@@ -76,3 +76,19 @@ All solar panel setups require a charge controller. This is the device that medi
 
 The charge controller most often used by Birds Canadais the [MorningStar SunSaver SS-10L-12V](https://www.morningstarcorp.com/products/sunsaver/). This can charge a 12-volt battery with up to 10 Amps of current and includes a low-voltage cutoff. These have proven robust and longer-lasting than cheaper models, but they can still fail so it’s always important to have spares around.
 
+## Power Outages
+
+The main issue is that if the power happens to cut out when the SG is writing to the SD card, it could corrupt the card and prevent the SG from ever booting back up.
+
+### AC Power
+
+Some sites have AC power available, but there may be problematic power outages. To get around this, you will need an uninterruptable power supply -- or UPS. They come in various shapes and sizes, based on the device being used and the amount of power you intend on drawing.
+
+A generic UPS is commonly available at local electronics stores as they are often used to protect databases and servers. Staples would probably be my first place to check. For instance, an $80 UPS from Staples can provide up to 2.5 hours of battery backup. Raspberry Pi's you so little power \(less than 10 Watts\) that you can expect it to last on the upper end of the rating.
+
+The nice thing about getting a generic UPS is that nearly all of them also have surge protectors which is important when you have an unreliable AC power supply.
+
+Alternatively, you can get a Raspberry PI UPS HAT. This plugs in under the GPS HAT and provides up to 30 minutes of power between outages.
+
+### Solar Power
+

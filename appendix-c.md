@@ -1,4 +1,4 @@
-# Appendix C: Parts list
+# Appendix C: Parts list and suppliers
 
 ## Antenna mounting structure
 
@@ -34,6 +34,44 @@
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+
+## Antennas and cables
+
+### 166 MHz antennas \(for Lotek Nanotags in the Western Hemisphere\)
+
+Maple Leaf Communications 9-Element Yagi 9E166
+
+Maple Leaf Communications 5-Element Yagi 5E166
+
+Maple Leaf Communications 3-Element Yagi 3E166
+
+Laird Antenna 9-Element Yagi PLC-1669
+
+Laird Antenna 6-Element Yagi PLC-1666
+
+### 434 MHz antennas \(for CTT LifeTags/PowerTags\)
+
+Laird 6-Element Yagi TS4306
+
+### Coaxial Cables
+
+Most RF or antenna suppliers will sell coaxial cable cut to size and with with your choice of connection type. We recommed **LMR400** cable, which is durable and low-loss. 
+
+## Suppliers
+
+### Canada
+
+* Maple Leaf Communications
+
+  Maple Leaf brand 166 MHz antennas and any cable needs
+
+* Nutech Electronics
+
+  WADE Antenna projects
+
+  Laird antennas
+
+### United States
 
 ## Power Supply
 
