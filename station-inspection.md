@@ -16,25 +16,41 @@ description: >-
 
 {% page-ref page="appendix-d.md" %}
 
-## When to Schedule an Inspection
+## When to schedule inspections
 
 Inspection should be scheduled to ensure station operates as expected prior to to any critical period for research in your region. For some people, stations are primarily used for personal research projects, but we still ask that collaborators try to maintain station operation throughout the year to spread the benefit to other projects in the network.
 
+### Offline stations
+
+Depending on your location, stations that need to have their data downloaded manually should be inspected _**three to four**_ ****_times per year._ This corresponds to spring and fall migratory periods as well as breeding and wintering periods. In northern and southern latitudes, it is common for there to be no tags present during the wintering period so it may not be as important to check stations at that time. 
+
+### Networked stations
+
+If your station is connected to the internet, data will be sent to our servers automatically. However, this won't tell you whether the station antennas have shifted direction or if the mounting structure is properly secured. For this reason, we recommend networked stations are _**one to two** times per year,_ depending on the frequency of storms and whether the station is in a marine environment.
+
 ### Storms
 
-If an extreme whether event has been forecasted it is important to ensure any vulnerable stations are properly secured _**prior**_  to the storm's arrival to minimize damage. If damage is expected, stations should also be checked _**after**_ the storm has passed to fix any issues that may have occured. This applies to both _**networked**_ and _**offline**_ stations.
+If an extreme whether event has been forecasted it is important to ensure any vulnerable stations are properly secured _**prior**_  to the storm's arrival to minimize damage. If damage is expected, stations should also be checked _**after**_ the storm has passed to fix any issues that may have occured. This applies to both _**networked**_ and _**offline**_ stations. 
+
+{% hint style="info" %}
+Protect your stations from wind by keeping your antennas as low to the ground as practical. If you are in a coastal area, we do not recommend mounting antennas higher than 6 meters \(20 feet\). If you have a telescopic mast, you can lower antennas further than normal during the winter months if you aren't expecting to detect any tags.
+{% endhint %}
 
 ### Marine environments
 
 Stations close to sea water will deteriorate much faster due to salt and water accellerating oxidation and galvanic corrosion. Salt fog can affect metal structures _**dozens**_ of kilometers inland so the station does not have to be near the ocean to impacted.
 
-### Networked stations
+### Winterizing stations
 
-If your station is connected to the internet, data will be sent to our servers automatically. However, this won't tell you whether the station antennas have shifted direction or if the mounting structure is properly secured. For this reason, we recommend networked stations are _**one to two** times per year,_ depending on the frequency of storms and whether the station is in a marine environement.
+In some locations it may be necessary to winterize your station due to higher winds and less sunlight during those months. With a telescopic mast you can protect your station from wind damage during the winter \(if you aren't expected any tags to be present\) by lowering your antennas further than normal. You can also save on power by unplugging some or all radio devices from the receiver or even by unplugging the receiver itself. 
 
-### Offline stations
+{% hint style="danger" %}
+**Battery Storage**
 
-Depending on your location, stations that need to have their data downloaded manually should be inspected _**three to four**_ ****_times per year._ This corresponds to spring and fall migratory periods as well as breeding and wintering periods. In northern and southern latitudes, it is common for there to be no tags present during the wintering period so 
+If there is significant snowfall in your region, or if the seasonal temperatures reach below -20 C \(-4 F\), the battery should be removed entirely and kept on a trickle charge over the winter. A trickle charger can be purchased at most hardware stores, or batteries can often be stored by a local industrial battery retailer.
+{% endhint %}
+
+In the end, usually not necessary to completely dismantle your station at any time of year, unless you are concerned about theft, or if you want to reduce the amount of exposure your equipment receives.
 
 ## Inspection Safety
 
