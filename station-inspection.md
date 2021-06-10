@@ -18,7 +18,7 @@ description: >-
 
 ## When to schedule inspections
 
-Inspection should be scheduled to ensure station operates as expected prior to to any critical period for research in your region. For some people, stations are primarily used for personal research projects, but we still ask that collaborators try to maintain station operation throughout the year to spread the benefit to other projects in the network.
+Inspections should be scheduled to ensure each station operates as expected prior to any critical period for research in your region. For some collaborators, stations are primarily used for personal research projects, but it is still important to maintain station operation throughout the year to spread the benefit to other projects in the network.
 
 ### Offline stations
 
@@ -33,12 +33,14 @@ If your station is connected to the internet, data will be sent to our servers a
 If an extreme whether event has been forecasted it is important to ensure any vulnerable stations are properly secured _**prior**_  to the storm's arrival to minimize damage. If damage is expected, stations should also be checked _**after**_ the storm has passed to fix any issues that may have occured. This applies to both _**networked**_ and _**offline**_ stations. 
 
 {% hint style="info" %}
-Protect your stations from wind by keeping your antennas as low to the ground as practical. If you are in a coastal area, we do not recommend mounting antennas higher than 6 meters \(20 feet\). If you have a telescopic mast, you can lower antennas further than normal during the winter months if you aren't expecting to detect any tags.
+Protect your stations from wind by keeping your antennas as low to the ground as practical. If you are in a coastal area, we do not recommend mounting antennas higher than 6 meters \(20 feet\). If you have a telescopic mast, you can lower antennas further than normal during the winter months if you aren't expecting to detect any tags. Also keep in mind that solar panels will act like a sail so they must be properly secured at all times.
 {% endhint %}
 
 ### Marine environments
 
-Stations close to sea water will deteriorate much faster due to salt and water accellerating oxidation and galvanic corrosion. Salt fog can affect metal structures _**dozens**_ of kilometers inland so the station does not have to be near the ocean to impacted.
+Stations close to sea water will deteriorate much faster due to salt and water accelerating oxidation and galvanic corrosion. Salt fog can affect metal structures _**dozens**_ of kilometers inland so the station does not have to be near the ocean to impacted.
+
+![](.gitbook/assets/image%20%281%29.png)
 
 ### Winterizing stations
 
