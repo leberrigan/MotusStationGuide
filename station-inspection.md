@@ -129,7 +129,42 @@ Receivers are stored in heavy-duty bins \(typically Action Packers\) to keep wat
 
 ### The Receiver
 
-This section will vary widely based on the type of device being used. 
+If the station is not connected to the internet, not only does the data need to be downloaded, it should also be checked to make sure it is collecting data correctly. Generally, you will not need to worry about this section if your receiver is networked because all the same information should also be available online.
+
+This section will vary widely based on the type of device being used_._ Select a tab below to view information related to your device:
+
+{% tabs %}
+{% tab title="SensorGnome" %}
+When checking your station, you want to make sure your station has the following information available:
+
+1. GPS is working, providing a location and time.
+   * Missing GPS may be: poor reception \(make sure antenna has view of the sky\); chewed GPS cable; broken GPS; bad connection \(GPS HAT has corroded; USB GPS is not plugged in correctly\).
+2. All connected radio devices are appearing on the web interface as expected
+   * Missing devices indicates: loose/broken cable \(most likely\), USB port \(or hub\), or radio device is broken.
+3. Data is being collected hourly
+   * Missing hourly data indicates power issues.
+4. Some data files are larger than 1 KB and contain lines which begin with "p"
+   * All files 1 KB indicate data is not being collected from radios.
+5. Data folders exist for each day
+   * Missing folders indicate power issues.
+
+Please refer to the [SensorGnome User Guide](https://docs.motus.org/sensorgnome/) for more information on how to connect to and access information on these devices.
+{% endtab %}
+
+{% tab title="CTT SensorStation" %}
+If your station is not connected to the internet, you will want to make sure your station is working correctly by checking the following:
+
+* [ ] GPS is working
+* [ ] All connected devices are appearing on the web interface as expected
+* [ ] Data is being collected hourly
+
+Please refer to the [CTT SensorStation Installation and Maintenance Guide ](https://cellular-tracking-technologies.github.io/ctt_documentation/v2-SensorStation-User-Guide.html)for more information on how to review this information.
+{% endtab %}
+
+{% tab title="Lotek SRX" %}
+To be completed
+{% endtab %}
+{% endtabs %}
 
 ### Cables and wires
 
