@@ -38,7 +38,7 @@ Depending on your location, stations that need to have their data downloaded man
 
 ## Inspection Safety
 
-When checking on a station that has been left on its own for months or longer, things will likely have shifted over time as it settles in. Corrosion can also occur, weaking certain supports. It's important to look for signs of weakend supports so they can be addressed before contuing with the inspection.
+When checking on a station that has been left on its own for months or longer, things will likely have shifted over time as it settles in. Corrosion can also occur, weaking supports. It's important to look for signs of weakend supports so they can be addressed before contuing with the inspection.
 
 Snakes, wasps, and hornets are known to take refuge in and around stations so approach stations carefully when these animals are most active \(especially in the fall\).
 
