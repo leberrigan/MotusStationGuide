@@ -27,4 +27,6 @@ description: 'See Appendix C for parts lists, pictures, and descriptions'
 | **Tag** | A radio transmitter made by **Lotek** or **Cellular Tracking Technologies**. |
 | **Tag deployment** | The time period of when a tag was activated and in the field. |
 | **Motus Network** | A collaborative network of receivers, transmitters, partners, and researchers which use radio telemetry to study animal movement. |
+|  |  |
+| **Galvanic Corrosion** | When two dissimilar metals meet in a corrosive electrolyte \(salt water\), the more reactive metal will corrode much more quickly than normal. Aluminum when in contact with steel. |
 
