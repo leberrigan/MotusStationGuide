@@ -1,17 +1,11 @@
----
-description: >-
-  After installing your station, you will need to check it every so often to
-  ensure it collects the data you want for a long time.
----
-
 # Station Inspection
 
 ## Contents
 
 * [**When to schedule inspections**](station-inspection.md#when-to-schedule-an-inspection)\*\*\*\*
-* \*\*\*\*[**Inspection safety**](station-inspection.md#inspection-safety)\*\*\*\*
 * \*\*\*\*[**What to bring**](station-inspection.md#what-to-bring)\*\*\*\*
-* \*\*\*\*[**What to look for**](station-inspection.md#what-to-look-for)\*\*\*\*
+* \*\*\*\*[**Inspection safety**](station-inspection.md#inspection-safety)\*\*\*\*
+* \*\*\*\*[**What to do**](station-inspection.md#what-to-look-for)
 * \*\*\*\*[**Station Inspection Checklist**](station-inspection.md#station-inspection-checklist)\*\*\*\*
 
 {% page-ref page="appendix-d.md" %}
@@ -44,27 +38,24 @@ Stations close to sea water will deteriorate much faster due to salt and water a
 
 ### Winterizing stations
 
-In some locations it may be necessary to winterize your station due to higher winds and less sunlight during those months. With a telescopic mast you can protect your station from wind damage during the winter \(if you aren't expected any tags to be present\) by lowering your antennas further than normal. You can also save on power by unplugging some or all radio devices from the receiver or even by unplugging the receiver itself. 
+In locations that experience higher winds, less sunlight, and sub-zero temperatures in the winter, it may important to winterize stationst during those months. With a telescopic mast you can protect your station from wind damage during the winter by lowering your antennas further than normal. You can also save on power by unplugging some or all radio devices from the receiver or even by unplugging the receiver itself. 
 
 {% hint style="danger" %}
 **Battery Storage**
 
 If there is significant snowfall in your region, or if the seasonal temperatures reach below -20 C \(-4 F\), the battery should be removed entirely and kept on a trickle charge over the winter. A trickle charger can be purchased at most hardware stores, or batteries can often be stored by a local industrial battery retailer.
+
+If you are using a low-capacity battery \(e.g.: ~50 Ah\), it may get damaged during extended overcast periods in the winter so it should also be stored on a trickle charge.
 {% endhint %}
 
-In the end, usually not necessary to completely dismantle your station at any time of year, unless you are concerned about theft, or if you want to reduce the amount of exposure your equipment receives.
-
-## Inspection Safety
-
-When checking on a station that has been left on its own for months or longer, things will likely have shifted over time as it settles in. Corrosion can also occur, weaking supports. It's important to look for signs of weakend supports so they can be addressed before contuing with the inspection.
-
-Snakes, wasps, and hornets are known to take refuge in and around stations so approach stations carefully when these animals are most active \(especially in the fall\).
+In the end, usually not necessary to completely dismantle your station at any time of year, unless you are concerned about theft, or if you want to reduce the amount of environmental exposure to your equipment.
 
 ## What to bring
 
 Below are a few items we recommend you bring on each station visit:
 
 * **Spares, spares, spares!** Try to have at least two of everything you might need to replace at a station.
+* If working at heights, appropriate safety equipment \(harness, vest, etc.\).
 * Bolt cutters, for removing rusted bolts, etc. Very important!
 * Multi-meter: measures both voltage and resistance \(to check for shorts and breaks\)
 * Gloves
@@ -73,15 +64,23 @@ Below are a few items we recommend you bring on each station visit:
 * Zip ties \(to secure cables and wires; close storage bin\)
 * SensorGnomes only: spare SD card with software image.
 
-## What to look for
+{% hint style="warning" %}
+## Inspection Safety
 
-There is are a squence of steps that should be followed during each station visit. There are many details to a station inspection so by maintaining the same pattern of steps it's harder to miss something.
+When checking on a station that has been left on its own for months or longer, things will likely have shifted over time as it settles in. Corrosion can also occur, weaking supports. It's important to look for signs of weakend supports so they can be addressed before contuing with the inspection.
 
-1. Approaching the station
-2. Inside the box
-3. The Receiver
-4. Cables and wires
-5. Additional steps \(optional\)
+Snakes, wasps, and hornets are known to take refuge in and around stations so approach stations carefully when these animals are most active \(especially in the fall\).
+{% endhint %}
+
+## What to do
+
+By following a sequence of steps during each station visit it's harder to miss something.
+
+1. [Approaching the station](station-inspection.md#approaching-the-station)
+2. [Inside the storage bin](station-inspection.md#inside-the-storage-bin)
+3. [The Receiver](station-inspection.md#the-receiver)
+4. [Cables and wires](station-inspection.md#cables-and-wires)
+5. [Tag test \(optional\)](station-inspection.md#tag-test-optional)
 
 ### Approaching the station
 
