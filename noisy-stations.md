@@ -6,7 +6,7 @@ The following mostly pertains to stand alone Sensorgnomes and SensorStations wit
 
 ## **Addressing excessive noise**
 
-Raw data from Lotek radio tags consist of long lists of time-stamped radio pulses. Four precisely-timed pulses are needed to identify a Lotek tag ID, but these pulses must be picked out from the surrounding noise environment. We consider noise to be any kind of radio pulse that is received by a station that was not produced by the intended target \(i.e., a radio tag\). Not only can this noise mask the pulses of real tags—preventing a receiver from picking it up—it can also produce signals that resemble real tags, resulting in a false positive detection. Excessive noise can be especially problematic for networked receivers that are using cellular or satellite connections. A single receiver experiencing excessive noise on a single antenna can easily produce over a GigaByte of data in a single month, resulting in $100’s in data charges.
+Raw data from Lotek radio tags consist of long lists of time-stamped radio pulses. Four precisely-timed pulses \(within 1.5 ms\) are needed to identify a [Lotek tag ID](https://docs.motus.org/tagguide/how-tags-work#lotek-radio-tags), but these pulses must be picked out from the surrounding noise environment. We consider noise to be any kind of radio pulse that is received by a station that was not produced by the intended target \(i.e., a radio tag\). Not only can this noise mask the pulses of real tags—preventing a receiver from picking it up—it can also produce signals that resemble real tags, resulting in a false positive detection. Excessive noise can be especially problematic for networked receivers that are using cellular or satellite connections. A single receiver experiencing excessive noise on a single antenna can easily produce over a GigaByte of data in a single month, resulting in $100’s in data charges.
 
 ### **Noise Sources**
 
@@ -20,11 +20,13 @@ The following density plot shows a one-month period of data collected at Blackie
 
 ![](.gitbook/assets/image%20%284%29.png)
 
+
+
 ###  R Script
 
 You can produce your own plots like the one above using the code below. If you have not used the Motus R Package in the past we recommend reviewing Chapters 1-3 of the [Motus R Book](https://motus.org/MotusRBook/index.html) before proceeding.
 
-This script uses the 'pulseCounts' table from the receiver database downloaded from the R package. To use this script, you must specify:
+This script uses the 'pulseCounts' table from the receiver detections database downloaded from the R package. To use this script, you must specify:
 
 **Line 11:** Directory of where Motus databases are stored on your computer \(files ending with ".motus"\)
 
@@ -65,7 +67,7 @@ recvs.df %>% by(seq_len(nrow(recvs.df)),
   function(d) {
     message("Downloading data for ", d$recvID, " (", d$name, ")")
     
-    sql <- tagme(projRecv = d$recvID, new = !file.exists(paste0(dir, d$recvID, '.motus')), update = F, forceMeta = F, dir = dir)
+    sql <- tagme(projRecv = d$recvID, new = !file.exists(paste0(dir, d$recvID, '.motus')), update = T, forceMeta = F, dir = dir)
     
     message("Finished downloading")
     
@@ -106,15 +108,24 @@ Once a problem station/antenna has been identified we have a number of choices:
 
 ### Quick Fixes
 
-1. Disconnect the station from the cell network entirely \(this is not ideal, but a quick fix\). 
-2. Confirm framerate of dongles by connecting to the receiver and checking the [Web Interface](https://docs.motus.org/sensorgnome/webinterface#what-im-doing-now-and-devices-panes). Dongle framerate should be around 48 KHz. If you don’t see that try [reflashing the FunCube firmware](https://docs.motus.org/sensorgnome/appendix/fcdfirmware).
-3. Disconnect the problem antenna. Noisy antenna's generally may not be collecting the highest quality data to begin with so taking them offline should not be a major impediment to the system. Collaborators should examine how many  'good' detections are detected on 'noisy' stations opposed to others before deciding to disconnect an antenna. Obviously this will be a bigger deal for stations with active tags nearby, but should not be a problem for most passive listening stations.
-4. Try installing [band-pass-filters](https://en.wikipedia.org/wiki/Band-pass_filter) which can reduce interference outside a desired band -[ https://www.scannermaster.com/BPF\_VHF\_Band\_Pass\_Filter\_p/24-531041.htm](https://www.scannermaster.com/BPF_VHF_Band_Pass_Filter_p/24-531041.htm)​
+1. Disconnect the station from the cell network entirely \(this is not ideal, but a quick fix\). For instructions on disconnecting SensorStations, refer to [the SensorStation manual](https://store.celltracktech.com/pages/installation-guides).
+2. Confirm framerate of radio dongles by connecting to the receiver and checking the [Web Interface](https://docs.motus.org/sensorgnome/webinterface#what-im-doing-now-and-devices-panes). Dongle framerate should be around 48 KHz. If you don’t see that try [reflashing the FunCube firmware](https://docs.motus.org/sensorgnome/appendix/fcdfirmware).
+3. Disconnect the problem antenna. Noisy antennas may be damaged or otherwise not collect data of the same quality as other, less noisy antennas so taking them offline should not be a major impediment to the system. Collaborators may want to examine how many 'good' detections are detected on noisy antennas opposed to others before deciding to disconnect. This will be a bigger deal for stations with active tags nearby, but should not be a problem for most passive listening stations.
+4. Try installing [band-pass-filters](https://en.wikipedia.org/wiki/Band-pass_filter) which can reduce interference outside a desired band. These have been used successfully in areas with heavy marine traffic, such as Sable Island, Nova Scotia.
+   * [137-174 MHz​ Band](https://www.scannermaster.com/BPF_VHF_Band_Pass_Filter_p/24-531041.htm)
 
 ### Harder Fixes
 
 1. Identify the source of the interference and attempt to aim the problem antenna away from that source. Visual inspection of the landscape, or experimentation with a manual receiver can often help to identify a source of interference.
-2. Use antenna analyzer to verify the antenna still performs within a reasonable threshold
-3. Use the process of elimination to identify whether it is a hardware problem. Replace all components of the problem antenna one at a time: USB cable; Radio Dongle; Coaxial Cable; Antenna.
-4. Remove the antenna altogether.
+2. Use antenna analyzer to verify the antenna still performs within a reasonable threshold. _Instructions to come._
+3. Use the process of elimination to identify whether it is a hardware problem. Replace all components of the problem antenna one at a time: USB cable; Radio Dongle; Coaxial Cable; Antenna. Checks for signs of cracks in the coaxial cable or loose/rusty connections. [**More information.**](https://app.gitbook.com/@motus/s/stationguide/~/drafts/-MkI3RzE3NRfglU8qeKV/station-inspection#cables-and-wires)\*\*\*\*
+4. Replace the antenna altogether.
+
+## More examples
+
+Below are a few more examples of noisy antennas.
+
+![](.gitbook/assets/image%20%288%29.png)**Noisy Antenna:** 1![](.gitbook/assets/image%20%287%29.png)**Noisy Antenna:** 2, maybe 1 as well
+
+![](.gitbook/assets/image%20%289%29.png)**Noisy Antenna:** 2
 
